@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on projects of developing
-- 📫 this my email : ibrahimothmeni@gmail.com
+- 📫 this my email : ibrahimothmeni@gmail.com / ibrahimelothmani98@gmail.com
 
 <!---
 ibrahimelothmani/ibrahimelothmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
