@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ibrahimelothmani
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on projects of developing
 - 📫 this my email : ibrahimothmeni@gmail.com / ibrahimelothmani98@gmail.com
 
