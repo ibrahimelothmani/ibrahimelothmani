@@ -1,2 +1,17 @@
-# ibrahimelothmani.github.io
-GitHub profile READMI
+# Hi, I'm Ibrahim El Othmani 👋
+
+Welcome to my GitHub profile!
+
+## 🚀 About Me
+I'm a passionate web developer working with technologies like Java, Spring Boot, and Angular. I love building scalable and efficient systems.
+
+## 🧑‍💻 Skills & Technologies
+- **Languages:** Java, JavaScript, TypeScript
+- **Frameworks:** Spring Boot, Angular, React
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, Docker, Maven, Jenkins
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-el-othmani-elothmani/)
+
+
