@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-I'm a passionate web developer working with technologies like Java, Spring Boot, and Angular. I love building scalable and efficient systems.
+I'm a passionate web developer working with technologies like Spring Boot, and Angular. I love building scalable and efficient systems.
 
 ## 🧑‍💻 Skills & Technologies
 - **Languages:** Java, JavaScript, TypeScript
