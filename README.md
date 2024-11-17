@@ -7,7 +7,7 @@ I'm a passionate web developer working with technologies like Spring Boot, and A
 
 ## 🧑‍💻 Skills & Technologies
 - **Languages:** Java, JavaScript, TypeScript
-- **Frameworks:** Spring Boot, Angular, React
+- **Frameworks:** Spring Boot,Symfony, Angular, React
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, Docker, Maven, Jenkins
 
