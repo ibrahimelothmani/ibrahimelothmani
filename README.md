@@ -6,12 +6,13 @@ Welcome to my GitHub profile!
 I'm a passionate web developer working with technologies like Spring Boot, and Angular. I love building scalable and efficient systems.
 
 ## 🧑‍💻 Skills & Technologies
-- **Languages:** Java, JavaScript, TypeScript
+- **Languages:** Java, Php, JavaScript, TypeScript
 - **Frameworks:** Spring Boot,Symfony, Angular, React
-- **Databases:** PostgreSQL, MySQL
+- **Databases:** PostgreSQL, MySQL, MongoDB
 - **Tools:** Git, Docker, Maven, Jenkins
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ibrahim-el-othmani-elothmani/)
+- [Portfolio](https://ibrahim-el-othmani.rf.gd/)
 
 
