@@ -7,7 +7,7 @@ I'm a passionate web developer working with technologies like Spring Boot, and A
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ibrahim-el-othmani-elothmani/)
-- [Portfolio](https://ibrahim-el-othmani.rf.gd/)
+- [Portfolio](https://ibrahimelothmani.vercel.app/)
 
 ## 🚀 Skills
 
