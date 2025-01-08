@@ -47,11 +47,6 @@ I'm a passionate web developer working with technologies like Spring Boot, and A
 
 ## 📊 My GitHub Stats
 
-### 🔥 Streak Stats
-[![Ibrahim El Othmani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelothmani&theme=radical)](https://git.io/streak-stats)
-
----
-
 ### 📈 GitHub Stats
 ![Ibrahim El Othmani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=radical)
 
