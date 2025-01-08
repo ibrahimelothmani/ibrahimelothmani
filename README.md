@@ -1,9 +1,13 @@
 # Hi, I'm Ibrahim El Othmani 👋
 
+![Professional Photo](https://github.com/user-attachments/assets/ac1b4af9-de66-4364-8a06-54c9ef0d6492)
+
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
 I'm a passionate web developer working with technologies like Spring Boot, and Angular. I love building scalable and efficient systems.
+...
+
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ibrahim-el-othmani-elothmani/)
