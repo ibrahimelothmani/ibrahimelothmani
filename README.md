@@ -1,7 +1,5 @@
 # Hi, I'm Ibrahim El Othmani 👋
 
-![1724859242061](https://github.com/user-attachments/assets/b67c75e6-6d48-4d03-90ea-2d48845e9ccb)
-
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
