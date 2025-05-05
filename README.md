@@ -3,9 +3,9 @@
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-I'm a passionate web developer working with technologies like Spring Boot, and Angular. I love building scalable and efficient systems.
-...
+I'm a web developer with extensive experience and a passion for computers. I learned to code from a very young age in various computer languages and technologies (JavaScript, PHP, Java, Symfony, Angular, Spring Boot, etc.) and created personal projects.
 
+I master the technical steps of creating a website or web application, from understanding user needs to frontend and backend development, and maintenance. I am currently expanding my expertise to include DevOps practices, focusing on CI/CD pipelines, containerization (Docker), infrastructure as code (Terraform/Ansible), and cloud platforms (AWS/Azure/GCP). My goal is to bridge the gap between development and operations, ensuring seamless deployment and scalable architectures.
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ibrahim-el-othmani-elothmani/)
