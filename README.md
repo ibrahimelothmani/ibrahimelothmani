@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Sa
 ## 🚀 About Me
 As a visionary developer, I specialize in building high-performance applications using **Java**, **JavaScript**, **TypeScript**, **Spring Boot**, **Angular**, **React**, and more. My expertise spans frontend, backend, and DevOps, with a focus on **CI/CD pipelines**, **containerization** (Docker, Kubernetes), and **cloud infrastructure** (AWS, Terraform). 
 
-I co-founded **EasyBuild**, a SaaS platform serving 20+ users, where I optimized microservices and reduced deployment times by 40%. My projects, like an **AI-Powered Cybersecurity System** and a **Multi-Modal AI Agent Platform**, showcase my ability to deliver scalable, real-world solutions. I'm driven by Agile collaboration, test-driven development, and a relentless pursuit of excellence.
-
 ## 🔗 Connect with Me
 - [Portfolio](https://ibrahimelothmani.vercel.app/)
 - [GitHub](https://github.com/ibrahimelothmani)
@@ -46,16 +44,6 @@ I co-founded **EasyBuild**, a SaaS platform serving 20+ users, where I optimized
 ### Methodologies
 ![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0088CC?style=for-the-badge)
 ![Test-Driven Development](https://img.shields.io/badge/TDD-00A86B?style=for-the-badge)
-
-## 🌟 Featured Projects
-- **[AI-Powered Cybersecurity Threat Detection System](https://github.com/ibrahimelothmani)**  
-  Built a scalable system using TensorFlow, React, and Python, detecting 1,000+ daily threats with 95% accuracy. Deployed with Docker and Kubernetes for 25% faster response times.
-
-- **[Multi-Modal AI Agent Platform with RAG Integration](https://github.com/ibrahimelothmani)**  
-  Developed an AI platform with Spring Boot, Angular, and OpenAI, processing 2,000+ daily queries and boosting engagement by 20% with RAG integration.
-
-- **[Job Search Platform with DevOps Integration](https://github.com/ibrahimelothmani)**  
-  Engineered a high-traffic job portal using Angular, Spring Boot, and MySQL, optimized with Docker and Jenkins for 20% lower API latency.
 
 ## 🎓 Education & Certifications
 - **Full Stack Development Bootcamp** | 2i Formation (2023-2024)
