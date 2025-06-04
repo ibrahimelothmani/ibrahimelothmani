@@ -5,11 +5,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Sa
 ## 🚀 About Me
 As a visionary developer, I specialize in building high-performance applications using **Java**, **JavaScript**, **TypeScript**, **Spring Boot**, **Angular**, **React**, and more. My expertise spans frontend, backend, and DevOps, with a focus on **CI/CD pipelines**, **containerization** (Docker, Kubernetes), and **cloud infrastructure** (AWS, Terraform). 
 
-## 🔗 Connect with Me
-- [Portfolio](https://ibrahimelothmani.vercel.app/)
-- [GitHub](https://github.com/ibrahimelothmani)
-- [Email](mailto:ibrahimelothmanii@gmail.com)
-
 ## 🛠️ Skills
 
 ### Languages
