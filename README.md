@@ -8,7 +8,6 @@ Let’s build something extraordinary together! 🚀
 ## 🛠️ Technical Skills
 
 <p align="left">
-
   <!-- Linux -->
 <a href="https://www.linux.org/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="max-width: 100%; background-color: transparent;">
@@ -69,7 +68,7 @@ Let’s build something extraordinary together! 🚀
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="max-width: 100%;">
   </a>
 
-    <!-- Angular -->
+  <!-- Angular -->
   <a href="https://angular.io" rel="nofollow">
     <img src="https://camo.githubusercontent.com/02dd9abf6d6830d335436073ba11481772e6f21353cdaf72e6d4459c93dcb3ca/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="50" height="50" style="max-width: 100%;">
   </a>
@@ -120,7 +119,6 @@ Let’s build something extraordinary together! 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" style="max-width: 100%;">
 </a>
 
-
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50" style="max-width: 100%;">
@@ -146,7 +144,6 @@ Let’s build something extraordinary together! 🚀
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="50" height="50" style="max-width: 100%;">
   </a>
 </p>
-
 
 ---
 
