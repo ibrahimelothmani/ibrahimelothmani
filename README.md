@@ -90,7 +90,7 @@ Let’s build something extraordinary together! 🚀
 
 <!-- GitHub Actions -->
 <a href="https://github.com/features/actions" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github-actions/github-actions-original-wordmark.svg" alt="github-actions" width="50" height="50" style="max-width: 100%; background-color: transparent;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Octicons-mark-github-actions.svg/512px-Octicons-mark-github-actions.svg.png" alt="github-actions" width="50" height="50" style="max-width: 100%; background-color: transparent;">
 </a>
 
   <!-- Kubernetes -->
