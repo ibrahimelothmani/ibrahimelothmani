@@ -88,10 +88,10 @@ Let’s build something extraordinary together! 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" style="max-width: 100%;">
 </a>
 
-  <!-- GitHub Actions -->
-  <a href="https://github.com/features/actions" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github-actions" width="50" height="50" style="max-width: 100%; filter: invert(1);">
-  </a>
+<!-- GitHub Actions -->
+<a href="https://github.com/features/actions" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github-actions/github-actions-original-wordmark.svg" alt="github-actions" width="50" height="50" style="max-width: 100%; background-color: transparent;">
+</a>
 
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/" rel="nofollow">
