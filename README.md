@@ -1,28 +1,9 @@
 # 👋 Hi, I'm Ibrahim El Othmani
 
 Welcome to my GitHub! I’m a passionate **Full Stack Developer** and **SaaS Co-Founder** focused on building impactful, scalable web applications. With a proven track record of optimizing efficiency by 30% and delivering solutions that serve thousands of users, I am dedicated to using my skills to solve complex challenges with cutting-edge technologies.
-
 Let’s build something extraordinary together! 🚀
 
 ---
-
-## 🚀 About Me
-
-I specialize in **end-to-end software development**, from building high-performance applications to implementing robust DevOps practices. I’m always looking for innovative ways to enhance user experience, streamline development processes, and improve application scalability. 
-
-Here’s what I bring to the table:
-
-- **Languages**: Java, JavaScript, TypeScript, Python, Go, PHP
-- **Frameworks**: React, Angular, Spring Boot, Laravel
-- **Cloud Infrastructure**: AWS, Terraform
-- **Containerization**: Docker, Kubernetes
-- **CI/CD**: Jenkins, GitHub Actions
-- **Databases**: MySQL, PostgreSQL, MongoDB
-
-I’m constantly exploring new technologies to improve my skill set and keep pushing the boundaries of what’s possible in web development.
-
----
-
 ## 🛠️ Technical Skills
 
 <p align="left">
@@ -75,7 +56,6 @@ I’m constantly exploring new technologies to improve my skill set and keep pus
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
   </a>
 </p>
-
 
 ## 📊 GitHub Stats
 
