@@ -83,10 +83,10 @@ Let’s build something extraordinary together! 🚀
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="50" height="50" style="max-width: 100%;">
   </a>
 
-  <!-- Jenkins -->
-  <a href="https://www.jenkins.io/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original-wordmark.svg" alt="jenkins" width="50" height="50" style="max-width: 100%;">
-  </a>
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" style="max-width: 100%;">
+</a>
 
   <!-- GitHub Actions -->
   <a href="https://github.com/features/actions" rel="nofollow">
