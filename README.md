@@ -25,45 +25,56 @@ I’m constantly exploring new technologies to improve my skill set and keep pus
 
 ## 🛠️ Technical Skills
 
-### **Languages**  
-<div style="display: flex; justify-content: space-evenly;">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" style="border: none;"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="border: none;"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" style="border: none;"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="border: none;"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" style="border: none;"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" style="border: none;"/>
-</div>
-
-### **Frameworks & Libraries**  
-<div style="display: flex; justify-content: space-evenly;">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" style="border: none;"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" style="border: none;"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" alt="Spring Boot" style="border: none;"/>
-  <img src="https://img.shields.io/badge/Laravel-EA4335?logo=laravel&logoColor=white" alt="Laravel" style="border: none;"/>
-</div>
-
-### **Cloud & Infrastructure**  
-<div style="display: flex; justify-content: space-evenly;">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" style="border: none;"/>
-  <img src="https://img.shields.io/badge/Terraform-7F3FBF?logo=terraform&logoColor=white" alt="Terraform" style="border: none;"/>
-</div>
-
-### **DevOps & Tools**  
-<div style="display: flex; justify-content: space-evenly;">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" style="border: none;"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" style="border: none;"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" style="border: none;"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins" style="border: none;"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" style="border: none;"/>
-</div>
-
-### **Databases**  
-<div style="display: flex; justify-content: space-evenly;">
-  <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" alt="MySQL" style="border: none;"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" style="border: none;"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" style="border: none;"/>
-</div>
+<p align="left">
+  <a href="https://angular.io" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/02dd9abf6d6830d335436073ba11481772e6f21353cdaf72e6d4459c93dcb3ca/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://aws.amazon.com" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.gnu.org/software/bash/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/b12f5974f22654ef48a4f981aaab21dfd0597c8d5e48de11315744ef5e5added/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="bash" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://getbootstrap.com" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.docker.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://firebase.google.com/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/f19579bd4b5f0b9812474d8109d5882710dad0399d94497a26ea79dc01dea234/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://git-scm.com/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.java.com" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.mongodb.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.mysql.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://nodejs.org" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.postgresql.org" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.python.org" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://reactjs.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.typescriptlang.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
+  </a>
+</p>
 
 
 ## 📊 GitHub Stats
