@@ -4,6 +4,7 @@ Welcome to my GitHub! I’m a passionate **Full Stack Developer** and **SaaS Co-
 Let’s build something extraordinary together! 🚀
 
 ---
+
 ## 🛠️ Technical Skills
 
 <p align="left">
@@ -14,10 +15,10 @@ Let’s build something extraordinary together! 🚀
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width: 100%;">
   </a>
   <a href="https://www.gnu.org/software/bash/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/b12f5974f22654ef48a4f981aaab21dfd0597c8d5e48de11315744ef5e5added/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="bash" width="40" height="40" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/b12f5974f22654ef48a4f981aaab21dfd0597c8d5e48de11315744ef5e5added/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="bash" width="50" height="50" style="max-width: 100%;">
   </a>
   <a href="https://getbootstrap.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="max-width: 100%;">
   </a>
   <a href="https://www.docker.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
@@ -56,6 +57,8 @@ Let’s build something extraordinary together! 🚀
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
   </a>
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
