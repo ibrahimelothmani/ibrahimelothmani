@@ -8,11 +8,12 @@ Let’s build something extraordinary together! 🚀
 ## 🛠️ Technical Skills
 
 <p align="left">
-  <!-- Angular -->
-  <a href="https://angular.io" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/02dd9abf6d6830d335436073ba11481772e6f21353cdaf72e6d4459c93dcb3ca/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="50" height="50" style="max-width: 100%;">
-  </a>
-  
+
+  <!-- Linux -->
+<a href="https://www.linux.org/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="max-width: 100%; background-color: transparent;">
+</a>
+
   <!-- AWS -->
   <a href="https://aws.amazon.com" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="max-width: 100%;">
@@ -67,6 +68,11 @@ Let’s build something extraordinary together! 🚀
   <a href="https://www.python.org" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="max-width: 100%;">
   </a>
+
+    <!-- Angular -->
+  <a href="https://angular.io" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/02dd9abf6d6830d335436073ba11481772e6f21353cdaf72e6d4459c93dcb3ca/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="50" height="50" style="max-width: 100%;">
+  </a>
   
   <!-- React -->
   <a href="https://reactjs.org/" rel="nofollow">
@@ -83,15 +89,37 @@ Let’s build something extraordinary together! 🚀
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="50" height="50" style="max-width: 100%;">
   </a>
 
+  <!-- Spring Boot -->
+<a href="https://spring.io/projects/spring-boot" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="50" height="50" style="max-width: 100%; background-color: transparent;">
+</a>
+
+<!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="50" height="50" style="max-width: 100%; background-color: transparent;">
+</a>
+
+<!-- Kafka -->
+<a href="https://kafka.apache.org/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="50" height="50" style="max-width: 100%; background-color: transparent;">
+</a>
+
+
+<!-- RabbitMQ -->
+<a href="https://www.rabbitmq.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="50" height="50" style="max-width: 100%; background-color: transparent;">
+</a>
+
+<!-- Postman -->
+<a href="https://www.postman.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="50" height="50" style="max-width: 100%; background-color: transparent;">
+</a>
+
 <!-- Jenkins -->
 <a href="https://www.jenkins.io/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" style="max-width: 100%;">
 </a>
 
-<!-- GitHub Actions -->
-<a href="https://github.com/features/actions" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github-actions/github-actions-original.svg" alt="github-actions" width="50" height="50" style="max-width: 100%; background-color: transparent;">
-</a>
 
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/" rel="nofollow">
