@@ -1,7 +1,19 @@
 # 👋 Hi, I'm Ibrahim El Othmani
 
-Welcome to my GitHub! I’m a passionate **Full Stack Developer** and **SaaS Co-Founder** focused on building impactful, scalable web applications. With a proven track record of optimizing efficiency by 30% and delivering solutions that serve thousands of users, I am dedicated to using my skills to solve complex challenges with cutting-edge technologies.
-Let’s build something extraordinary together! 🚀
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Co-Founder;Problem+Solver;Innovation+Enthusiast" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahimelothmani&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ibrahimelothmani?label=Followers&style=flat-square&color=58a6ff" alt="Followers" />
+</p>
+
+Welcome to my GitHub! I'm a passionate **Full Stack Developer** and **SaaS Co-Founder** focused on building impactful, scalable web applications. With a proven track record of optimizing efficiency by 30% and delivering solutions that serve thousands of users, I am dedicated to using my skills to solve complex challenges with cutting-edge technologies.
+
+<div align="center">
+  <h3>🚀 Let's build something extraordinary together!</h3>
+</div>
 
 ---
 
@@ -147,31 +159,78 @@ Let’s build something extraordinary together! 🚀
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&langs_count=8&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelothmani&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak Stats" />
+</div>
 
-## 🌱 Currently Learning
-- Advanced React and TypeScript patterns
-- Microservices architecture
-- Serverless applications with AWS Lambda
-
----
-
-## 🎯 Achievements & Impact
-
-- Successfully led the development of a **scalable SaaS platform**, improving operational efficiency by **30%** and serving **thousands of users**.
-- Optimized application performance, resulting in **faster response times** and a **seamless user experience**.
-- Built **automated CI/CD pipelines**, reducing deployment time by **50%** and ensuring reliable, error-free releases.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelothmani&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff" alt="Activity Graph" />
+</div>
 
 ---
 
-## 📬 Feel free to reach out if you’re looking to collaborate on exciting projects, share knowledge, or just chat about tech! 
+## 🎯 Impact & Achievements
+
+<div align="center">
+  
+| 🚀 **SaaS Platform** | 📊 **Performance** | 🔄 **DevOps** |
+|:---:|:---:|:---:|
+| Built scalable platform | 30% efficiency boost | 50% faster deployments |
+| Thousands of users | Optimized response times | Automated CI/CD |
+| Led development team | Seamless UX | Error-free releases |
+
+</div>
 
 ---
 
-**Thanks for visiting my profile!** Let's code, innovate, and create something impactful! 🚀
+## 🌱 Currently Learning & Exploring
+
+<div align="center">
+  
+```typescript
+const currentFocus = {
+  frontend: ["Advanced React Patterns", "TypeScript Best Practices"],
+  backend: ["Microservices Architecture", "Event-Driven Systems"],
+  cloud: ["Serverless with AWS Lambda", "Container Orchestration"],
+  exploring: ["AI/ML Integration", "Web3 Technologies"]
+};
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimelothmani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimelothmanii@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://yourportfolio.com](https://ibrahimelothmani.vercel.app))
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💬 "Let's collaborate on exciting projects, share knowledge, or just chat about tech!"
+
+**Thanks for visiting my profile!** 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Happy+Coding!+%F0%9F%9A%80;Let's+Build+Together!+%E2%9C%A8;Innovation+Never+Stops!+%F0%9F%92%A1" alt="Footer Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer&animation=fadeIn" alt="Footer Wave" />
+</div>
