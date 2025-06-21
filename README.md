@@ -207,8 +207,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and **SaaS Co-Fo
 <br><sub>Event-Driven Systems</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/>
-<br><strong>Cloud</strong>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Cloud"/><br><strong>Cloud</strong>
 <br><sub>AWS Lambda Serverless</sub>
 <br><sub>Container Orchestration</sub>
 </td>
@@ -233,7 +232,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and **SaaS Co-Fo
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimelothmani)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimelothmanii@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://yourportfolio.com](https://ibrahimelothmani.vercel.app))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ibrahimelothmani.vercel.app)
 
 </div>
 
