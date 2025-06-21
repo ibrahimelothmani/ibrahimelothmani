@@ -207,7 +207,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and **SaaS Co-Fo
 <br><sub>Event-Driven Systems</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Cloud"/><br><strong>Cloud</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="Cloud"/><br><strong>Cloud</strong>
 <br><sub>AWS Lambda Serverless</sub>
 <br><sub>Container Orchestration</sub>
 </td>
