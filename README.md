@@ -147,13 +147,16 @@ Let’s build something extraordinary together! 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&count_private=true&hide=prs&hide_title=true)
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&langs_count=10&hide_title=true)
+📈 Coding Journey
+<div align="center">
+  <a href="https://github.com/ibrahimelothmani">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&count_private=true&hide=prs&theme=dracula&hide_title=true&include_all_commits=true&line_height=21&custom_title=📊%20GitHub%20Overview"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&langs_count=8&theme=dracula&hide_title=true&custom_title=🔧%20Languages"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelothmani&theme=dracula&hide_border=true&bg_color=282a36" alt="Activity Graph"/>
+</div>
 
 ---
 
