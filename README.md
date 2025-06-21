@@ -147,15 +147,10 @@ Let’s build something extraordinary together! 🚀
 
 ---
 
-📈 Coding Journey
+## 📊 GitHub Analytics
 <div align="center">
-  <a href="https://github.com/ibrahimelothmani">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&count_private=true&hide=prs&theme=dracula&hide_title=true&include_all_commits=true&line_height=21&custom_title=📊%20GitHub%20Overview"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&langs_count=8&theme=dracula&hide_title=true&custom_title=🔧%20Languages"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelothmani&theme=dracula&hide_border=true&bg_color=282a36" alt="Activity Graph"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&langs_count=8&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 ---
