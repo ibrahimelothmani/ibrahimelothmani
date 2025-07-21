@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ibrahim El Othmani
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Co-Founder;Problem+Solver;Innovation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+&+DevOps+Engineer;Problem+Solver;Innovation+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/ibrahimelothmani?label=Followers&style=flat-square&color=58a6ff" alt="Followers" />
 </p>
 
-Welcome to my GitHub! I'm a passionate **Web Developer** and **Cloud & DevOps Engineer** focused on building impactful, scalable web applications. With a proven track record of optimizing efficiency by 30% and delivering solutions that serve thousands of users, I am dedicated to using my skills to solve complex challenges with cutting-edge technologies.
+Welcome to my GitHub! I'm a motivated Cloud & DevOps Engineer with full-stack development expertise, specializing in AWS, Kubernetes, CI/CD automation, and infrastructure as code (Terraform/Ansible). Proven track record of designing scalable cloud solutions and implementing robust DevOps practices that reduce deployment time and improve system reliability. Seeking to leverage my technical versatility and automation skills to drive digital transformation initiatives in a forward-thinking organization.
 
 <div align="center">
   <h3>🚀 Let's build something extraordinary together!</h3>
