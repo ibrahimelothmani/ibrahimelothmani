@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ibrahim El Othmani
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+&+DevOps+Engineer;Problem+Solver;Innovation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+DevOps+Engineer;Problem+Solver;Innovation+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
