@@ -127,17 +127,6 @@ Welcome to my GitHub! I'm a motivated Cloud & DevOps Engineer with full-stack de
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ibrahimelothmani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://ibrahimelothmani.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/pacman-contribution-graph.svg">
@@ -159,18 +148,6 @@ Welcome to my GitHub! I'm a motivated Cloud & DevOps Engineer with full-stack de
 </div>
 
 ###
-
-## 🎯 Impact & Achievements
-
-<div align="center">
-  
-| 🚀 **SaaS Platform** | 📊 **Performance** | 🔄 **DevOps** |
-|:---:|:---:|:---:|
-| Built scalable platform | 30% efficiency boost | 50% faster deployments |
-| Thousands of users | Optimized response times | Automated CI/CD |
-| Led development team | Seamless UX | Error-free releases |
-
-</div>
 
 ---
 
