@@ -16,15 +16,7 @@ Welcome to my GitHub! I'm a motivated Cloud & DevOps Engineer with full-stack de
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ibrahimelothmani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://ibrahimelothmani.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -35,8 +27,6 @@ Welcome to my GitHub! I'm a motivated Cloud & DevOps Engineer with full-stack de
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/snake.svg" alt="Snake animation" />
 
 ---
 
