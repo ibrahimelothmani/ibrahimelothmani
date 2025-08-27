@@ -16,10 +16,6 @@ Welcome to my GitHub! I'm a motivated Cloud & DevOps Engineer with full-stack de
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/pacman-contribution-graph.svg">
@@ -27,7 +23,6 @@ Welcome to my GitHub! I'm a motivated Cloud & DevOps Engineer with full-stack de
 </picture>
 
 ###
-
 ---
 
 <h1 align="center">Hey 👋What's Up?</h1>
