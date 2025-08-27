@@ -15,13 +15,6 @@ Welcome to my GitHub! I'm a motivated Cloud & DevOps Engineer with full-stack de
   <h3>🚀 Let's build something extraordinary together!</h3>
 </div>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 ---
 
