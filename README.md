@@ -170,106 +170,26 @@ Welcome to my GitHub! I'm a motivated **Cloud & DevOps Engineer** with full-stac
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 [Project Name 1](#)
-**Kubernetes-based Microservices Platform**
-
-Built a production-ready microservices architecture deployed on AWS EKS with complete CI/CD pipeline.
-
-**Tech Stack:** Kubernetes, Docker, Go, Terraform, ArgoCD
-
-**Highlights:**
-- ⚡ 99.9% uptime achieved
-- 🚀 40% faster deployment times
-- 📊 Full observability with Grafana & Prometheus
-
-[🔗 Live Demo](#) | [💻 Code](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 [Project Name 2](#)
-**Cloud Infrastructure Automation**
-
-Automated multi-cloud infrastructure provisioning using Terraform with cost optimization strategies.
-
-**Tech Stack:** Terraform, AWS, Python, Ansible
-
-**Highlights:**
-- 💰 30% cost reduction
-- 🔄 Fully automated rollbacks
-- 🔐 Enhanced security compliance
-
-[🔗 Live Demo](#) | [💻 Code](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Project Name 3](#)
-**Real-time Event Processing System**
-
-Scalable event-driven architecture using Kafka for processing millions of events per day.
-
-**Tech Stack:** Apache Kafka, Go, PostgreSQL, Docker
-
-**Highlights:**
-- ⚡ Sub-100ms latency
-- 📈 Handles 5M+ events/day
-- 🔄 Auto-scaling capabilities
-
-[🔗 Live Demo](#) | [💻 Code](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 [Project Name 4](#)
-**Full-Stack SaaS Application**
-
-Modern SaaS platform with Next.js frontend and GraphQL API backend.
-
-**Tech Stack:** Next.js, GraphQL, PostgreSQL, Tailwind
-
-**Highlights:**
-- 🎨 Beautiful, responsive UI
-- 🔐 Secure authentication flow
-- 🚀 Optimized performance
-
-[🔗 Live Demo](#) | [💻 Code](#)
-
-</td>
-</tr>
-</table>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ibrahimelothmani&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
----
-
-## 📊 GitHub Statistics
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibrahimelothmani&theme=radical&utcOffset=1" alt="Productive Time" />
+</div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimelothmani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ibrahimelothmani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelothmani&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelothmani&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
@@ -313,22 +233,6 @@ Modern SaaS platform with Next.js frontend and GraphQL API backend.
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+learning+%F0%9F%93%9A;Building+scalable+solutions+%F0%9F%9A%80;One+commit+at+a+time+%F0%9F%92%BB;DevOps+%2B+Cloud+%2B+Full+Stack+%3D+%E2%9D%A4%EF%B8%8F" alt="Learning Motto" />
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-```
-🎓 AWS Certified Solutions Architect (Add if you have)
-🎓 Kubernetes Administrator (CKA) (Add if you have)
-🎯 100+ Open Source Contributions
-⭐ X+ GitHub Stars Across Projects
-🤝 X+ Collaborative Projects
-```
-
 </div>
 
 ---
