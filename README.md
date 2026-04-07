@@ -48,7 +48,6 @@ Welcome to my GitHub! I'm a motivated **Cloud & DevOps Engineer** with full-stac
 
 ## 🛠️ Tech Stack & Tools
 
-### 🎨 Frontend Development
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angular" title="Angular" />
   <img width="12" />
@@ -67,10 +66,6 @@ Welcome to my GitHub! I'm a motivated **Cloud & DevOps Engineer** with full-stac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass" title="Sass" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap" title="Bootstrap" />
-</div>
-
-### ⚙️ Backend & APIs
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go" title="Go" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python" title="Python" />
@@ -90,10 +85,6 @@ Welcome to my GitHub! I'm a motivated **Cloud & DevOps Engineer** with full-stac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx" title="Nginx" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="apache" title="Apache" />
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" title="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure" title="Azure" />
@@ -113,10 +104,6 @@ Welcome to my GitHub! I'm a motivated **Cloud & DevOps Engineer** with full-stac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" alt="grafana" title="Grafana" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="50" alt="prometheus" title="Prometheus" />
-</div>
-
-### 🗄️ Databases & Caching
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" title="PostgreSQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" title="MySQL" />
@@ -126,10 +113,6 @@ Welcome to my GitHub! I'm a motivated **Cloud & DevOps Engineer** with full-stac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase" title="Firebase" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="50" alt="appwrite" title="Appwrite" />
-</div>
-
-### 🛠️ Tools & Platforms
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" title="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux" title="Linux" />
@@ -149,10 +132,6 @@ Welcome to my GitHub! I'm a motivated **Cloud & DevOps Engineer** with full-stac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="jira" title="Jira" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" alt="slack" title="Slack" />
-</div>
-
-### 🔧 Other Technologies
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="kafka" title="Apache Kafka" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest" title="Jest" />
