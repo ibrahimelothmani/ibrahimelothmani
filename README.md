@@ -78,8 +78,8 @@ An autonomous infrastructure tool that acts as an admission controller for AI ag
 ## 📊 Analytics & Professional Growth
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="450" />
 </div>
 
 ---
