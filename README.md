@@ -146,10 +146,11 @@ All of it lives on **[my blog](https://ibrahimelothmani-blog.netlify.app/)**, or
 
 <div align="center">
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimelothmani&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+<img width="700" src="https://streak-stats.demolab.com?user=ibrahimelothmani&theme=tokyonight&hide_border=true" />
 
 </div>
 
