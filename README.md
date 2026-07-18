@@ -147,8 +147,9 @@ All of it lives on **[my blog](https://ibrahimelothmani-blog.netlify.app/)**, or
 <div align="center">
 
 <a href="https://github.com/ibrahimelothmani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br><br>
