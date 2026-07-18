@@ -146,12 +146,6 @@ All of it lives on **[my blog](https://ibrahimelothmani-blog.netlify.app/)**, or
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
 <img width="95%" src="https://streak-stats.demolab.com?user=ibrahimelothmani&theme=tokyonight&hide_border=true" />
 
 <br><br>
