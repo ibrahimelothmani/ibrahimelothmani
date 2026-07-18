@@ -2,7 +2,7 @@
 
 # Hi, I'm Ibrahim El Othmani 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2EA3FF&center=true&vCenter=true&width=650&height=50&lines=DevOps+%26+Cloud+Engineer;From+Civil+Engineering+to+Kubernetes;Shipping+Secure+Systems+Worldwide)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2EA3FF&center=true&vCenter=true&width=650&height=50&lines=DevOps+%26+Cloud+Engineer;From+Civil+Engineering+to+Kubernetes;Now%3A+AI%2FML+Infrastructure+Engineer;Shipping+Secure+Systems+Worldwide)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/📍-Nabeul%2C%20Tunisia-1f6feb?style=flat-square)
 ![Open to Remote](https://img.shields.io/badge/Open%20to-Remote%20%28EU%20%26%20MENA%29-2ea043?style=flat-square)
@@ -22,16 +22,20 @@ I didn't start in software — I started in **structural engineering**, calculat
 
 Today I design and ship **secure, multi-tenant SaaS platforms**, and I live at the intersection of application code and the infrastructure it runs on — using Go, Java, and Python to automate CI/CD and GitOps lifecycles end to end.
 
+That same instinct is now pulling me toward **AI/ML infrastructure**: treating model pipelines, RAG systems, and LLM agents as production systems that deserve the same rigor as a Kubernetes cluster — versioned, evaluated, and sandboxed rather than shipped on faith.
+
 - 🇹🇳 Based in Nabeul, Tunisia — open to **remote roles across Europe (France, Belgium, Switzerland) and MENA**
 - 🗣️ Trilingual: English · Français · العربية
 - 🏗️ Ex-civil engineer → now a Kubernetes / Terraform / DevSecOps generalist
+- 🤖 Currently transitioning into **AI/ML Infrastructure Engineering** — NumPy/pandas/scikit-learn through embeddings, RAG, and LangGraph agents
 
 ## 🔭 What I'm Doing Right Now
 
 - Working as a **Cloud & DevOps Engineer @ Future Eagle IoT**, building CI/CD pipelines, multi-cloud IaC, and production Kubernetes platforms.
+- Working through a self-directed **AI/ML Infrastructure Engineering** transition — ML foundations, LLMs, retrieval, and agentic systems — documented as a companion book series alongside the DevOps/Cloud work.
 - Taking on select **Production-Readiness Audits** (Spring Boot · PostgreSQL · DevSecOps) for teams shipping to AWS.
 - Writing long-form technical content across DevOps, DevSecOps, Cloud, MLOps, and AIOps on my [blog](https://ibrahimelothmani-blog.netlify.app/).
-- Always happy to talk about Kubernetes admission controllers, multi-tenant Row-Level Security, or migrating legacy Java to cloud-native.
+- Always happy to talk about Kubernetes admission controllers, multi-tenant Row-Level Security, AI agent sandboxing, or migrating legacy Java to cloud-native.
 
 ## 🧰 Tech Stack
 
@@ -68,6 +72,15 @@ Today I design and ship **secure, multi-tenant SaaS platforms**, and I live at t
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Elastic](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 
+**AI / ML & LLM Infrastructure**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -98,7 +111,7 @@ Today I design and ship **secure, multi-tenant SaaS platforms**, and I live at t
 |---|---|---|
 | [**Future Eagle Fleet**](https://github.com/ibrahimelothmani?tab=repositories&q=fleet) | Spring Boot · PostgreSQL RLS · Angular · Keycloak · Docker | Multi-tenant B2B fleet SaaS with row-level tenant isolation, SECURITY DEFINER triggers, and real-time vehicle telemetry over WebSocket/STOMP. |
 | [**Eagle IoT**](https://github.com/ibrahimelothmani?tab=repositories&q=iot) | FastAPI · TimescaleDB · React · MQTT · ESP32 | Industrial IoT platform: PLC → ESP32 → Modbus ingestion into TimescaleDB hypertables, mTLS-secured transport, predictive maintenance alerts. |
-| [**AgentWarden**](https://github.com/ibrahimelothmani?tab=repositories&q=warden) | Go · Kubernetes · Docker · React | Validating/mutating admission webhook that sandboxes autonomous AI coding agents in GitOps workflows, shipped as a signed, distroless image. |
+| [**AgentWarden**](https://github.com/ibrahimelothmani?tab=repositories&q=warden) | Go · Kubernetes · Docker · React | AI agent security & sandboxing infrastructure: a validating/mutating admission webhook that constrains autonomous AI coding agents and LLM tool access in GitOps workflows, shipped as a signed, distroless image. |
 | [**FlexTier**](https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS) | Java · AWS EKS · K3s · Terraform · ArgoCD | Migrated a legacy Java WAR into two containerized paths (cost-optimized K3s + managed EKS) with FinOps tagging and rightsizing. |
 | [**Three-Tier DevSecOps on EKS**](https://github.com/ibrahimelothmani?tab=repositories&q=devsecops) | Terraform · AWS EKS · ArgoCD · Prometheus · SonarQube · Trivy | End-to-end reference pipeline from code commit to production rollout, with shift-left scanning and SLO-based monitoring. |
 
@@ -116,6 +129,8 @@ Today I design and ship **secure, multi-tenant SaaS platforms**, and I live at t
 ## ✍️ Writing & Long-Form Content
 
 - 📘 **Engineering AI, Volume I** — mapping a Spring Boot / cloud-native stack to LLM integration, AI agents, RAG pipelines, and production AI security.
+- 📙 **Load Paths to Data Pipelines** — Phase 1 of a self-directed AI/ML Infrastructure roadmap: NumPy, pandas, and scikit-learn, taught through a structural-engineering lens and ending in a real anomaly-detection model on Eagle IoT sensor data.
+- 📕 **Attention Is a Load Path** — Phase 2 of the same roadmap: LLMs, embeddings, pgvector, RAG, and LangGraph agents, capped with an agentic maintenance assistant sandboxed by AgentWarden.
 - 🎫 **TicketForge** — a build-in-public series on a high-concurrency ticketing SaaS (Java 21, Kafka, Redis, AWS, DevSecOps).
 - 📗 **DevSecOps & Cloud By Hand** — a full lifecycle walkthrough: Spring Boot/Angular/PostgreSQL app → CI/CD → AWS lift-and-shift → FinOps → AI agent integration.
 
@@ -140,7 +155,7 @@ All of it lives on **[my blog](https://ibrahimelothmani-blog.netlify.app/)**, or
 
 ## 🤝 Let's Work Together
 
-> 💼 I'm open to **remote DevOps / Cloud Engineer roles** across Europe 🇫🇷🇧🇪🇨🇭 and MENA, and I take on select **Production-Readiness Audits** (Spring Boot · PostgreSQL · DevSecOps) for teams shipping to AWS.
+> 💼 I'm open to **remote DevOps / Cloud / AI-ML Infrastructure Engineer roles** across Europe 🇫🇷🇧🇪🇨🇭 and MENA, and I take on select **Production-Readiness Audits** (Spring Boot · PostgreSQL · DevSecOps) for teams shipping to AWS.
 
 [![Email](https://img.shields.io/badge/Email-ibrahimelothmanii%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahimelothmanii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahimelothmani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimelothmani/)
@@ -151,7 +166,7 @@ All of it lives on **[my blog](https://ibrahimelothmani-blog.netlify.app/)**, or
 
 <div align="center">
 
-*"Structures don't fail because of bad math — they fail because of bad assumptions. I bring the same discipline to distributed systems."*
+*"Structures don't fail because of bad math — they fail because of bad assumptions. I bring the same discipline to distributed systems — and now to the models and agents running on top of them."*
 
 ⭐️ Thanks for stopping by — check out the [portfolio](https://ibrahimelothmani.netlify.app/) or [blog](https://ibrahimelothmani-blog.netlify.app/) for more.
 
