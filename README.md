@@ -146,17 +146,15 @@ All of it lives on **[my blog](https://ibrahimelothmani-blog.netlify.app/)**, or
 
 <div align="center">
 
-<a href="https://github.com/ibrahimelothmani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/ibrahimelothmani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelothmani&theme=tokyo-night&hide_border=true" />
 
 <br><br>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=ibrahimelothmani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ibrahimelothmani&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<br><br>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=ibrahimelothmani&theme=tokyonight&hide_border=true" />
 
 </div>
 
