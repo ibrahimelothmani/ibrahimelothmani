@@ -1,174 +1,243 @@
-<div align="center">
+&lt;!-- ========================================================= --&gt;
+&lt;!--  Ibrahim El Othmani  |  Cloud · Platform · AI Infra Eng  --&gt;
+&lt;!-- ========================================================= --&gt;
 
-# Hi, I'm Ibrahim El Othmani 👋
+&lt;div align="center"&gt;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2EA3FF&center=true&vCenter=true&width=650&height=50&lines=DevOps+%26+Cloud+Engineer;From+Civil+Engineering+to+Kubernetes;Now%3A+AI%2FML+Infrastructure+Engineer;Shipping+Secure+Systems+Worldwide)](https://git.io/typing-svg)
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111827,100:0a0a0a&height=200&section=header&text=Ibrahim%20El%20Othmani&fontSize=48&fontColor=f0f0f0&fontAlignY=35&desc=Cloud%20%7C%20Platform%20%7C%20AI%20Infrastructure%20Engineer&descSize=16&descAlignY=55&descColor=9ca3af" width="100%" /&gt;
 
-![Location](https://img.shields.io/badge/📍-Nabeul%2C%20Tunisia-1f6feb?style=flat-square)
-![Open to Remote](https://img.shields.io/badge/Open%20to-Remote%20%28EU%20%26%20MENA%29-2ea043?style=flat-square)
-[![Email](https://img.shields.io/badge/Email-ibrahimelothmanii%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahimelothmanii@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahimelothmani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimelothmani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ibrahimelothmani.netlify.app-2ea3ff?style=flat-square&logo=vercel&logoColor=white)](https://ibrahimelothmani.netlify.app/)
-[![Blog](https://img.shields.io/badge/Blog-Read%20My%20Notes-ff6f00?style=flat-square&logo=hashnode&logoColor=white)](https://ibrahimelothmani-blog.netlify.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=ibrahimelothmani&color=2ea3ff&style=flat-square&label=Profile+Views)
+&lt;br&gt;
 
-</div>
+&lt;a href="https://git.io/typing-svg"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&height=45&lines=From+structural+load+paths+to+distributed+systems+load+balancing;Shipping+secure%2C+multi-tenant+SaaS+platforms+worldwide;Treating+AI+pipelines+with+the+rigor+of+Kubernetes+clusters" alt="Typing" /&gt;
+&lt;/a&gt;
 
----
+&lt;br&gt;&lt;br&gt;
 
-## About Me
+&lt;a href="mailto:ibrahimelothmanii@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
+&lt;a href="https://www.linkedin.com/in/ibrahimelothmani/"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
+&lt;a href="https://ibrahimelothmani.netlify.app/"&gt;&lt;img src="https://img.shields.io/badge/Portfolio-2ea3ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
+&lt;a href="https://ibrahimelothmani-blog.netlify.app/"&gt;&lt;img src="https://img.shields.io/badge/Blog-ff6f00?style=flat-square&logo=hashnode&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
 
-I didn't start in software — I started in **structural engineering**, calculating load paths and safety factors for concrete and steel. In 2023 I pivoted into full-stack development and DevOps, and I never stopped noticing the parallel: a distributed system and a bridge fail for the same reason — a bad assumption nobody stress-tested.
+&lt;br&gt;
 
-Today I design and ship **secure, multi-tenant SaaS platforms**, and I live at the intersection of application code and the infrastructure it runs on — using Go, Java, and Python to automate CI/CD and GitOps lifecycles end to end.
+&lt;img src="https://img.shields.io/badge/%F0%9F%93%8D-Nabeul%2C%20Tunisia-8b949e?style=flat-square&labelColor=0d1117" /&gt;
+&lt;img src="https://img.shields.io/badge/Open%20to-Remote%20%28EU%20%26%20MENA%29-2ea043?style=flat-square&labelColor=0d1117" /&gt;
+&lt;img src="https://img.shields.io/github/followers/ibrahimelothmani?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers" /&gt;
 
-That same instinct is now pulling me toward **AI/ML infrastructure**: treating model pipelines, RAG systems, and LLM agents as production systems that deserve the same rigor as a Kubernetes cluster — versioned, evaluated, and sandboxed rather than shipped on faith.
+&lt;/div&gt;
 
-- 🇹🇳 Based in Nabeul, Tunisia — open to **remote roles across Europe (France, Belgium, Switzerland) and MENA**
-- 🗣️ Trilingual: English · Français · العربية
-- 🏗️ Ex-civil engineer → now a Kubernetes / Terraform / DevSecOps generalist
-- 🤖 Currently transitioning into **AI/ML Infrastructure Engineering** — NumPy/pandas/scikit-learn through embeddings, RAG, and LangGraph agents
+&lt;br&gt;
 
-## 🔭 What I'm Doing Right Now
+&lt;!-- ========================================================= --&gt;
+&lt;!--  PHILOSOPHY                                               --&gt;
+&lt;!-- ========================================================= --&gt;
 
-- Working as a **Cloud & DevOps Engineer @ Future Eagle IoT**, building CI/CD pipelines, multi-cloud IaC, and production Kubernetes platforms.
-- Working through a self-directed **AI/ML Infrastructure Engineering** transition — ML foundations, LLMs, retrieval, and agentic systems — documented as a companion book series alongside the DevOps/Cloud work.
-- Taking on select **Production-Readiness Audits** (Spring Boot · PostgreSQL · DevSecOps) for teams shipping to AWS.
-- Writing long-form technical content across DevOps, DevSecOps, Cloud, MLOps, and AIOps on my [blog](https://ibrahimelothmani-blog.netlify.app/).
-- Always happy to talk about Kubernetes admission controllers, multi-tenant Row-Level Security, AI agent sandboxing, or migrating legacy Java to cloud-native.
+&lt;div align="center"&gt;
 
-## 🧰 Tech Stack
+&gt; **Systems fail at the boundaries of assumptions.**  
+&gt; I treat production systems with the rigor of structural engineering.
 
-**Cloud & Infrastructure**
+&lt;/div&gt;
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+&lt;br&gt;
 
-**Containers & Orchestration**
+&lt;!-- ========================================================= --&gt;
+&lt;!--  WHAT I BUILD                                             --&gt;
+&lt;!-- ========================================================= --&gt;
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+&lt;div align="center"&gt;
 
-**CI/CD & GitOps**
+## What I Build
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+&lt;/div&gt;
 
-**DevSecOps & Security**
+- **Production Kubernetes** — Multi-tenant EKS clusters, Istio service mesh, custom admission webhooks, GitOps with ArgoCD
+- **CI/CD & DevSecOps** — Shift-left pipelines (SonarQube, Trivy), signed artifacts, blue-green deployments, SLO-based monitoring
+- **Multi-tenant SaaS** — PostgreSQL RLS, Keycloak identity federation, row-level tenant isolation at scale
+- **Cloud Infrastructure** — Terraform modules, FinOps tagging, AWS/Azure multi-cloud, K3s edge clusters
+- **AI/ML Infrastructure** — RAG pipelines with pgvector, LangGraph agents, Kubernetes sandboxing for LLM tools
 
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+&lt;br&gt;
 
-**Observability & SRE**
+&lt;!-- ========================================================= --&gt;
+&lt;!--  TECH STACK                                               --&gt;
+&lt;!-- ========================================================= --&gt;
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Elastic](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+&lt;div align="center"&gt;
 
-**AI / ML & LLM Infrastructure**
+## Tech Stack
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+&lt;/div&gt;
 
-**Languages**
+&lt;div align="center"&gt;
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+&lt;img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,githubactions,jenkins,git,linux&perline=10" /&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;img src="https://skillicons.dev/icons?i=java,go,python,typescript,bash,spring,fastapi,react,angular&perline=9" /&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,prometheus,grafana,nginx&perline=7" /&gt;
 
-**Backend & Frontend**
+&lt;/div&gt;
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+&lt;br&gt;
 
-**Databases & Messaging**
+&lt;!-- ========================================================= --&gt;
+&lt;!--  FEATURED PROJECTS                                        --&gt;
+&lt;!-- ========================================================= --&gt;
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+&lt;div align="center"&gt;
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Stack | What it does |
-|---|---|---|
-| [**Future Eagle Fleet**](https://github.com/ibrahimelothmani?tab=repositories&q=fleet) | Spring Boot · PostgreSQL RLS · Angular · Keycloak · Docker | Multi-tenant B2B fleet SaaS with row-level tenant isolation, SECURITY DEFINER triggers, and real-time vehicle telemetry over WebSocket/STOMP. |
-| [**Eagle IoT**](https://github.com/ibrahimelothmani?tab=repositories&q=iot) | FastAPI · TimescaleDB · React · MQTT · ESP32 | Industrial IoT platform: PLC → ESP32 → Modbus ingestion into TimescaleDB hypertables, mTLS-secured transport, predictive maintenance alerts. |
-| [**AgentWarden**](https://github.com/ibrahimelothmani?tab=repositories&q=warden) | Go · Kubernetes · Docker · React | AI agent security & sandboxing infrastructure: a validating/mutating admission webhook that constrains autonomous AI coding agents and LLM tool access in GitOps workflows, shipped as a signed, distroless image. |
-| [**FlexTier**](https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS) | Java · AWS EKS · K3s · Terraform · ArgoCD | Migrated a legacy Java WAR into two containerized paths (cost-optimized K3s + managed EKS) with FinOps tagging and rightsizing. |
-| [**Three-Tier DevSecOps on EKS**](https://github.com/ibrahimelothmani?tab=repositories&q=devsecops) | Terraform · AWS EKS · ArgoCD · Prometheus · SonarQube · Trivy | End-to-end reference pipeline from code commit to production rollout, with shift-left scanning and SLO-based monitoring. |
+&lt;/div&gt;
 
-## 📊 Impact, in Numbers
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td width="50%" valign="top"&gt;
 
-| Metric | Result |
-|---|---|
-| Deployment time | ↓ 40% across 8+ microservices |
-| New environment onboarding | 2 days → under 30 minutes |
-| Production uptime | 99.9%, zero-downtime rolling releases |
-| Mean time to detect (MTTD) | ↓ 65% via SLO-driven alerting |
-| Client infrastructure cost | ↓ 35%+ vs. prior VM-based deployments |
-| Login latency after Keycloak/OAuth2 migration | ↓ 40% |
+&lt;h3 align="center"&gt;Future Eagle Fleet&lt;/h3&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=0d1117" /&gt;
+  &lt;img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117" /&gt;
+  &lt;img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor=0d1117" /&gt;
+&lt;/p&gt;
 
-## ✍️ Writing & Long-Form Content
+Multi-tenant B2B fleet SaaS with PostgreSQL RLS, real-time WebSocket telemetry, and Keycloak OAuth2.  
+**99.9% uptime** · 10K+ concurrent streams · 50+ tenants
 
-- 📘 **Engineering AI, Volume I** — mapping a Spring Boot / cloud-native stack to LLM integration, AI agents, RAG pipelines, and production AI security.
-- 📙 **Load Paths to Data Pipelines** — Phase 1 of a self-directed AI/ML Infrastructure roadmap: NumPy, pandas, and scikit-learn, taught through a structural-engineering lens and ending in a real anomaly-detection model on Eagle IoT sensor data.
-- 📕 **Attention Is a Load Path** — Phase 2 of the same roadmap: LLMs, embeddings, pgvector, RAG, and LangGraph agents, capped with an agentic maintenance assistant sandboxed by AgentWarden.
-- 🎫 **TicketForge** — a build-in-public series on a high-concurrency ticketing SaaS (Java 21, Kafka, Redis, AWS, DevSecOps).
-- 📗 **DevSecOps & Cloud By Hand** — a full lifecycle walkthrough: Spring Boot/Angular/PostgreSQL app → CI/CD → AWS lift-and-shift → FinOps → AI agent integration.
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/ibrahimelothmani?tab=repositories&q=fleet"&gt;Repo&lt;/a&gt; ·
+  &lt;a href="https://ibrahimelothmani.netlify.app/"&gt;Demo&lt;/a&gt;
+&lt;/p&gt;
 
-All of it lives on **[my blog](https://ibrahimelothmani-blog.netlify.app/)**, organized across five tracks: DevOps, DevSecOps, Cloud, MLOps, and AIOps.
+&lt;/td&gt;
+&lt;td width="50%" valign="top"&gt;
 
-## 🎓 Background
+&lt;h3 align="center"&gt;Eagle IoT&lt;/h3&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117" /&gt;
+  &lt;img src="https://img.shields.io/badge/TimescaleDB-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117" /&gt;
+  &lt;img src="https://img.shields.io/badge/MQTT-231F20?style=flat-square&logo=eclipsemosquitto&logoColor=white&labelColor=0d1117" /&gt;
+&lt;/p&gt;
 
-- Full-Stack & DevOps Intensive Program — 2i Formation
-- Applied Bachelor's Degree (Honors), Civil Engineering — ISET Nabeul
-- LFS158 (Kubernetes) · LFS169 (GitOps) · LFEL1014 (KEDA) — The Linux Foundation
+Industrial IoT platform: ESP32 edge gateways → MQTT/mTLS → TimescaleDB hypertables → React dashboard.  
+**50K+ msg/min** · &lt;200ms p95 latency · 80% compression
 
-## 📈 GitHub Activity
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/ibrahimelothmani?tab=repositories&q=iot"&gt;Repo&lt;/a&gt; ·
+  &lt;a href="https://ibrahimelothmani.netlify.app/"&gt;Demo&lt;/a&gt;
+&lt;/p&gt;
 
-<div align="center">
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="50%" valign="top"&gt;
 
-<img width="95%" src="https://streak-stats.demolab.com?user=ibrahimelothmani&theme=tokyonight&hide_border=true" />
+&lt;h3 align="center"&gt;AgentWarden&lt;/h3&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0d1117" /&gt;
+  &lt;img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117" /&gt;
+  &lt;img src="https://img.shields.io/badge/OPA-7D9199?style=flat-square&logo=openpolicyagent&logoColor=white&labelColor=0d1117" /&gt;
+&lt;/p&gt;
 
-<br><br>
+AI agent sandboxing for GitOps. Validating/mutating admission webhook in Go + OPA/Rego policies.  
+**&lt;50ms latency** · 12 destructive ops blocked · signed distroless image
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelothmani&theme=tokyo-night&hide_border=true" />
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/ibrahimelothmani?tab=repositories&q=warden"&gt;Repo&lt;/a&gt; ·
+  &lt;a href="https://github.com/ibrahimelothmani?tab=repositories&q=warden"&gt;Docs&lt;/a&gt;
+&lt;/p&gt;
 
-</div>
+&lt;/td&gt;
+&lt;td width="50%" valign="top"&gt;
 
-## 🤝 Let's Work Together
+&lt;h3 align="center"&gt;FlexTier&lt;/h3&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117" /&gt;
+  &lt;img src="https://img.shields.io/badge/AWS%20EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1117" /&gt;
+  &lt;img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white&labelColor=0d1117" /&gt;
+&lt;/p&gt;
 
-> 💼 I'm open to **remote DevOps / Cloud / AI-ML Infrastructure Engineer roles** across Europe 🇫🇷🇧🇪🇨🇭 and MENA, and I take on select **Production-Readiness Audits** (Spring Boot · PostgreSQL · DevSecOps) for teams shipping to AWS.
+Dual-path Java orchestration: legacy WAR → K3s (edge) + EKS (cloud) with FinOps tagging.  
+**35% cost reduction** · 2-day → 30-min provisioning · zero-downtime cutover
 
-[![Email](https://img.shields.io/badge/Email-ibrahimelothmanii%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahimelothmanii@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahimelothmani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimelothmani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ibrahimelothmani.netlify.app-2ea3ff?style=flat-square&logo=vercel&logoColor=white)](https://ibrahimelothmani.netlify.app/)
-[![Blog](https://img.shields.io/badge/Blog-Read%20My%20Notes-ff6f00?style=flat-square&logo=hashnode&logoColor=white)](https://ibrahimelothmani-blog.netlify.app/)
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS"&gt;Repo&lt;/a&gt; ·
+  &lt;a href="https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS"&gt;Docs&lt;/a&gt;
+&lt;/p&gt;
 
----
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
-<div align="center">
+&lt;br&gt;
 
-*"Structures don't fail because of bad math — they fail because of bad assumptions. I bring the same discipline to distributed systems — and now to the models and agents running on top of them."*
+&lt;!-- ========================================================= --&gt;
+&lt;!--  GITHUB DASHBOARD                                         --&gt;
+&lt;!-- ========================================================= --&gt;
 
-⭐️ Thanks for stopping by — check out the [portfolio](https://ibrahimelothmani.netlify.app/) or [blog](https://ibrahimelothmani-blog.netlify.app/) for more.
+&lt;div align="center"&gt;
 
-</div>
+## GitHub Dashboard
+
+&lt;img src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%" /&gt;
+&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="49%" /&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&lt;img src="https://streak-stats.demolab.com?user=ibrahimelothmani&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="98%" /&gt;
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;!-- ========================================================= --&gt;
+&lt;!--  CERTIFICATIONS                                           --&gt;
+&lt;!-- ========================================================= --&gt;
+
+&lt;div align="center"&gt;
+
+## Certifications
+
+&lt;/div&gt;
+
+&lt;div align="center"&gt;
+
+| Completed | In Progress | Planned |
+|-----------|-------------|---------|
+| LFS158 — Kubernetes Fundamentals | AWS Solutions Architect (60%) | CKA |
+| LFS169 — GitOps Fundamentals | Terraform Associate | AWS DevOps Pro |
+| LFEL1014 — KEDA Fundamentals | Python for Data Science (40%) | AWS ML Specialty |
+
+&lt;/div&gt;
+
+&lt;br&gt;
+
+&lt;!-- ========================================================= --&gt;
+&lt;!--  CONTACT                                                  --&gt;
+&lt;!-- ========================================================= --&gt;
+
+&lt;div align="center"&gt;
+
+## Let's Build Together
+
+Open to **remote DevOps / Cloud / AI-ML Infrastructure Engineer roles** across Europe and MENA.  
+Select **Production-Readiness Audits** for teams shipping to AWS.
+
+&lt;br&gt;
+
+&lt;a href="mailto:ibrahimelothmanii@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-ibrahimelothmanii%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
+&lt;a href="https://www.linkedin.com/in/ibrahimelothmani/"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-ibrahimelothmani-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
+&lt;a href="https://ibrahimelothmani.netlify.app/"&gt;&lt;img src="https://img.shields.io/badge/Portfolio-ibrahimelothmani.netlify.app-2ea3ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
+&lt;a href="https://ibrahimelothmani-blog.netlify.app/"&gt;&lt;img src="https://img.shields.io/badge/Blog-Read%20My%20Notes-ff6f00?style=flat-square&logo=hashnode&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+&gt; *"The most reliable systems are not those that never fail, but those that fail gracefully, recover automatically, and teach you something every time they do."*
+
+&lt;br&gt;
+
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111827,100:0a0a0a&height=100&section=footer" width="100%" /&gt;
+
+&lt;/div&gt;
