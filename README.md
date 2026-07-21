@@ -1,243 +1,485 @@
-&lt;!-- ========================================================= --&gt;
-&lt;!--  Ibrahim El Othmani  |  Cloud · Platform · AI Infra Eng  --&gt;
-&lt;!-- ========================================================= --&gt;
+<!--
+  Ibrahim El Othmani — GitHub Profile README
+  Repository: ibrahimelothmani/ibrahimelothmani
+  Last structural revision: see git history
+-->
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111827,100:0a0a0a&height=200&section=header&text=Ibrahim%20El%20Othmani&fontSize=48&fontColor=f0f0f0&fontAlignY=35&desc=Cloud%20%7C%20Platform%20%7C%20AI%20Infrastructure%20Engineer&descSize=16&descAlignY=55&descColor=9ca3af" width="100%" /&gt;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F1220,100:1E3A5F&height=200&section=header&text=Ibrahim%20El%20Othmani&fontSize=40&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20DevSecOps%20%C2%B7%20Cloud%20%C2%B7%20AI%20Infrastructure&descAlignY=54&descSize=16&descColor=9FB3C8">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5FA8,100:6FA8DC&height=200&section=header&text=Ibrahim%20El%20Othmani&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20DevSecOps%20%C2%B7%20Cloud%20%C2%B7%20AI%20Infrastructure&descAlignY=54&descSize=16&descColor=F0F4F8" width="100%" alt="Ibrahim El Othmani">
+</picture>
 
-&lt;br&gt;
+<br>
 
-&lt;a href="https://git.io/typing-svg"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&height=45&lines=From+structural+load+paths+to+distributed+systems+load+balancing;Shipping+secure%2C+multi-tenant+SaaS+platforms+worldwide;Treating+AI+pipelines+with+the+rigor+of+Kubernetes+clusters" alt="Typing" /&gt;
-&lt;/a&gt;
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=4C8DFF&center=true&vCenter=true&width=600&height=40&lines=Cloud+%26+DevSecOps+Engineer;Ex-Structural+Engineer%2C+Now+Building+Distributed+Systems;Currently%3A+AI%2FML+Infrastructure+%28in+progress%29)](https://github.com/ibrahimelothmani)
 
-&lt;br&gt;&lt;br&gt;
+<sub><b>Nabeul, Tunisia</b> · Open to remote — France · Belgium · Switzerland · MENA</sub>
 
-&lt;a href="mailto:ibrahimelothmanii@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
-&lt;a href="https://www.linkedin.com/in/ibrahimelothmani/"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
-&lt;a href="https://ibrahimelothmani.netlify.app/"&gt;&lt;img src="https://img.shields.io/badge/Portfolio-2ea3ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
-&lt;a href="https://ibrahimelothmani-blog.netlify.app/"&gt;&lt;img src="https://img.shields.io/badge/Blog-ff6f00?style=flat-square&logo=hashnode&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
+<br><br>
 
-&lt;br&gt;
+<a href="mailto:ibrahimelothmanii@gmail.com"><img src="https://img.shields.io/badge/Email-ibrahimelothmanii%40gmail.com-2b3137?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/ibrahimelothmani/"><img src="https://img.shields.io/badge/LinkedIn-ibrahimelothmani-2b3137?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+<a href="https://ibrahimelothmani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ibrahimelothmani.netlify.app-2b3137?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://ibrahimelothmani-blog.netlify.app/"><img src="https://img.shields.io/badge/Blog-Technical%20Writing-2b3137?style=flat-square&logo=hashnode&logoColor=2962FF" alt="Blog"></a>
 
-&lt;img src="https://img.shields.io/badge/%F0%9F%93%8D-Nabeul%2C%20Tunisia-8b949e?style=flat-square&labelColor=0d1117" /&gt;
-&lt;img src="https://img.shields.io/badge/Open%20to-Remote%20%28EU%20%26%20MENA%29-2ea043?style=flat-square&labelColor=0d1117" /&gt;
-&lt;img src="https://img.shields.io/github/followers/ibrahimelothmani?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers" /&gt;
+<br>
 
-&lt;/div&gt;
+<img src="https://img.shields.io/github/followers/ibrahimelothmani?label=Followers&style=flat-square&color=2b3137&labelColor=2b3137" alt="Followers">
+<img src="https://komarev.com/ghpvc/?username=ibrahimelothmani&color=2b3137&style=flat-square&label=Profile+Views" alt="Profile Views">
+<img src="https://img.shields.io/badge/Building%20in%20software%20since-2023-2b3137?style=flat-square" alt="Since 2023">
 
-&lt;br&gt;
+</div>
 
-&lt;!-- ========================================================= --&gt;
-&lt;!--  PHILOSOPHY                                               --&gt;
-&lt;!-- ========================================================= --&gt;
+<br>
 
-&lt;div align="center"&gt;
+<div align="center">
+<sub>
+<a href="#about">About</a> ·
+<a href="#engineering-philosophy">Philosophy</a> ·
+<a href="#engineering-journey">Journey</a> ·
+<a href="#current-focus">Current Focus</a> ·
+<a href="#flagship-architectures">Architectures</a> ·
+<a href="#featured-projects">Projects</a> ·
+<a href="#tech-stack">Stack</a> ·
+<a href="#production-experience">Experience</a> ·
+<a href="#open-source">Open Source</a> ·
+<a href="#learning--certifications">Certifications</a> ·
+<a href="#engineering-research">Research</a> ·
+<a href="#writing">Writing</a> ·
+<a href="#github-activity">Activity</a> ·
+<a href="#roadmap">Roadmap</a> ·
+<a href="#contact">Contact</a>
+</sub>
+</div>
 
-&gt; **Systems fail at the boundaries of assumptions.**  
-&gt; I treat production systems with the rigor of structural engineering.
+<br>
 
-&lt;/div&gt;
+## About
 
-&lt;br&gt;
+I didn't start in software. I started in **structural engineering** — calculating load paths, safety factors, and failure margins for concrete and steel. In 2023 I moved into full-stack development and DevOps, and the parallel never stopped being useful: a distributed system and a bridge tend to fail for the same reason — an assumption nobody stress-tested.
 
-&lt;!-- ========================================================= --&gt;
-&lt;!--  WHAT I BUILD                                             --&gt;
-&lt;!-- ========================================================= --&gt;
+Today I build and operate **multi-tenant SaaS platforms and the infrastructure underneath them** — Spring Boot and FastAPI services, Kubernetes clusters, Terraform-managed cloud environments, and the CI/CD and GitOps pipelines that ship them. I'm the founder of **Future Eagle IoT**, where I design industrial IoT and fleet-management systems end to end, from firmware-adjacent data ingestion up to the API and the cluster it runs on.
 
-&lt;div align="center"&gt;
+That same "prove it before you trust it" instinct is what's pulling me toward **AI/ML infrastructure** now — treating agents, RAG pipelines, and model-serving systems as production systems that need the same rigor as anything else in the cluster: versioned, evaluated, access-controlled, and sandboxed, not shipped on faith.
 
-## What I Build
+- Based in Nabeul, Tunisia — open to remote roles across **Europe (France, Belgium, Switzerland)** and **MENA**
+- Trilingual — English · Français · العربية
+- Civil engineer by training, DevSecOps/Cloud engineer by trade
+- Currently deep in an AI/ML infrastructure transition — ML foundations through LLM agents, documented as I go
 
-&lt;/div&gt;
+## Engineering Philosophy
 
-- **Production Kubernetes** — Multi-tenant EKS clusters, Istio service mesh, custom admission webhooks, GitOps with ArgoCD
-- **CI/CD & DevSecOps** — Shift-left pipelines (SonarQube, Trivy), signed artifacts, blue-green deployments, SLO-based monitoring
-- **Multi-tenant SaaS** — PostgreSQL RLS, Keycloak identity federation, row-level tenant isolation at scale
-- **Cloud Infrastructure** — Terraform modules, FinOps tagging, AWS/Azure multi-cloud, K3s edge clusters
-- **AI/ML Infrastructure** — RAG pipelines with pgvector, LangGraph agents, Kubernetes sandboxing for LLM tools
+> Most incidents aren't caused by bad code. They're caused by an assumption that was never written down, never tested, and quietly broke.
 
-&lt;br&gt;
+A few things I try to hold myself to:
 
-&lt;!-- ========================================================= --&gt;
-&lt;!--  TECH STACK                                               --&gt;
-&lt;!-- ========================================================= --&gt;
+- **Automate the boring and the dangerous first.** If a step is manual and repeated more than twice, it becomes a script; if it's manual and risky, it becomes a pipeline with a gate.
+- **Reliability is a property of the system, not a hope about the code.** Health checks, graceful degradation, and rollback paths are part of the design, not an afterthought bolted on before launch.
+- **Security is a default, not a checklist item.** Least-privilege roles, row-level isolation, and short-lived credentials go in from the first migration — retrofitting them later is how breaches happen.
+- **If you can't observe it, you don't actually run it.** Metrics, logs, and traces are part of the deliverable, not a "nice to have" for the next sprint.
+- **Simplicity is a discipline, not a default.** Boring, well-understood tools beat clever ones almost every time production is on the line.
+- **Autonomous systems — including AI agents — get the same trust budget as a new hire:** scoped access, audited actions, and a sandbox until they've earned more.
 
-&lt;div align="center"&gt;
+## Engineering Journey
 
-## Tech Stack
+```mermaid
+flowchart LR
+    A[Civil Engineering] --> B[Software Development]
+    B --> C[Backend Engineering]
+    C --> D[DevOps]
+    D --> E[Cloud Engineering]
+    E --> F[Platform Engineering]
+    F --> G[AI Infrastructure]
+    G --> H[Cloud Architecture]
 
-&lt;/div&gt;
+    style A fill:#2b3137,stroke:#4C8DFF,color:#fff
+    style H fill:#2b3137,stroke:#4C8DFF,color:#fff
+```
 
-&lt;div align="center"&gt;
+<sub>Started with structural load calculations in 2023 · currently between <b>Platform Engineering</b> and <b>AI Infrastructure</b> · Cloud Architecture is the direction, not a finished stop.</sub>
 
-&lt;img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,githubactions,jenkins,git,linux&perline=10" /&gt;
-&lt;br&gt;&lt;br&gt;
-&lt;img src="https://skillicons.dev/icons?i=java,go,python,typescript,bash,spring,fastapi,react,angular&perline=9" /&gt;
-&lt;br&gt;&lt;br&gt;
-&lt;img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,prometheus,grafana,nginx&perline=7" /&gt;
+## Current Focus
 
-&lt;/div&gt;
+| Area | In practice |
+|---|---|
+| **Platform Engineering** | Building internal tooling that constrains what other systems — including AI agents — are allowed to do to a cluster. |
+| **Kubernetes & GitOps** | Admission controllers, Helm-packaged services, and ArgoCD-driven deployments instead of `kubectl apply` from a laptop. |
+| **Multi-cloud IaC** | Terraform + Ansible across AWS and Azure, aimed at repeatable environments rather than hand-built ones. |
+| **Cloud & Application Security** | JWT/OIDC via Keycloak, row-level tenant isolation in PostgreSQL, and shift-left scanning (SonarQube) in the pipeline. |
+| **AI/ML Infrastructure** | RAG pipelines, embeddings, and agent sandboxing — applying the same access-control mindset to LLM agents as to any other service account. |
+| **Distributed Data Systems** | Kafka-based ingestion and TimescaleDB hypertables for high-volume industrial sensor data. |
 
-&lt;br&gt;
+## Flagship Architectures
 
-&lt;!-- ========================================================= --&gt;
-&lt;!--  FEATURED PROJECTS                                        --&gt;
-&lt;!-- ========================================================= --&gt;
+<details open>
+<summary><b>AgentWarden — Kubernetes admission controller for AI coding agents</b></summary>
+<br>
 
-&lt;div align="center"&gt;
+A deterministic security proxy sitting between autonomous AI agents (coding assistants, custom LLM loops) and the Kubernetes resources they try to touch — a validating/mutating admission webhook rather than a wrapper that trusts the agent's own restraint.
+
+```mermaid
+flowchart LR
+    AG[AI Agent / LLM Loop] -->|kubectl / API call| API[kube-apiserver]
+    API -->|AdmissionReview| AW[AgentWarden Webhook]
+    AW -->|policy check| DEC{Allow / Deny / Mutate}
+    DEC -->|allowed or patched| RES[Cluster Resources]
+    DEC -->|denied| REJ[Rejected + Logged]
+```
+
+**Stack:** Go · Kubernetes admission webhooks · Docker (distroless build)
+**Status:** Public repo, Apache-2.0 licensed, CI/CD and test coverage in place
+**Why it matters:** as agents get write access to real infrastructure, the access-control layer between "agent suggests" and "agent executes" is the part that actually needs engineering.
+
+</details>
+
+<details>
+<summary><b>Future Eagle Fleet — multi-tenant fleet management SaaS</b></summary>
+<br>
+
+A B2B fleet-management platform built for multiple tenants on shared infrastructure, where tenant isolation is enforced by the database itself rather than by application-layer trust.
+
+```mermaid
+flowchart LR
+    UI[Angular Client] -->|OIDC login| KC[Keycloak]
+    UI -->|JWT| API[Spring Boot API]
+    API -->|tenant-scoped query| PG[(PostgreSQL — Row-Level Security)]
+    PG -->|SECURITY DEFINER triggers| PG
+```
+
+**Stack:** Spring Boot · PostgreSQL (Row-Level Security) · Angular · Keycloak
+**Status:** Private — proprietary Future Eagle IoT product
+**Why it matters:** RLS policies, `SECURITY DEFINER` triggers, and least-privilege DB roles mean a bug in application code can't leak one tenant's data to another — the isolation doesn't depend on every query getting it right.
+
+</details>
+
+<details>
+<summary><b>Eagle IoT — industrial IoT ingestion & monitoring platform</b></summary>
+<br>
+
+An industrial data pipeline running from PLC-connected sensors through to a time-series store built for high-cardinality factory data.
+
+```mermaid
+flowchart LR
+    PLC[Factory PLC] -->|Modbus| ESP[ESP32 Gateway]
+    ESP -->|MQTT over mTLS| BRK[MQTT Broker]
+    BRK --> KAF[Kafka]
+    KAF --> FA[FastAPI Ingestion]
+    FA --> TS[(TimescaleDB Hypertables)]
+    TS --> ALR[Alerts & Predictive Maintenance]
+```
+
+**Stack:** FastAPI · TimescaleDB · ESP32 · MQTT (mTLS) · Kafka
+**Status:** Private — proprietary Future Eagle IoT product
+**Why it matters:** a ~50-table multi-tenant schema across factories, machines, sensors, alerts, and maintenance, with Kafka absorbing bursty multi-machine telemetry so ingestion doesn't fall over during a factory's peak load.
+
+</details>
 
 ## Featured Projects
 
-&lt;/div&gt;
+<details open>
+<summary><b>AgentWarden</b> — AI agent sandboxing for Kubernetes</summary>
+<br>
 
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width="50%" valign="top"&gt;
+<img src="https://img.shields.io/github/stars/ibrahimelothmani/AgentWarden?style=flat-square&label=stars" alt="stars"> <img src="https://img.shields.io/github/last-commit/ibrahimelothmani/AgentWarden?style=flat-square&label=last%20commit" alt="last commit"> <img src="https://img.shields.io/github/languages/top/ibrahimelothmani/AgentWarden?style=flat-square" alt="top language">
 
-&lt;h3 align="center"&gt;Future Eagle Fleet&lt;/h3&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=0d1117" /&gt;
-  &lt;img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117" /&gt;
-  &lt;img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor=0d1117" /&gt;
-&lt;/p&gt;
+A Kubernetes admission controller and sandbox purpose-built to constrain what autonomous AI coding agents and LLM-driven tools can do inside a cluster — policy enforcement at the API server rather than trust in the agent's own guardrails.
 
-Multi-tenant B2B fleet SaaS with PostgreSQL RLS, real-time WebSocket telemetry, and Keycloak OAuth2.  
-**99.9% uptime** · 10K+ concurrent streams · 50+ tenants
+- **Repo:** [ibrahimelothmani/AgentWarden](https://github.com/ibrahimelothmani/AgentWarden)
+- **Tech:** Go, Kubernetes admission webhooks, distroless Docker image
+- **Notable:** built directly from a written spec, with CI/CD and test coverage rather than as an afterthought
+- **Challenge:** admission webhooks fail closed by design — getting the policy model expressive enough to be useful without becoming a second thing that blocks deploys
+- **Status:** actively maintained, Apache-2.0
 
-&lt;p align="center"&gt;
-  &lt;a href="https://github.com/ibrahimelothmani?tab=repositories&q=fleet"&gt;Repo&lt;/a&gt; ·
-  &lt;a href="https://ibrahimelothmani.netlify.app/"&gt;Demo&lt;/a&gt;
-&lt;/p&gt;
+</details>
 
-&lt;/td&gt;
-&lt;td width="50%" valign="top"&gt;
+<details>
+<summary><b>FlexTier</b> — dual-path legacy Java modernization on AWS</summary>
+<br>
 
-&lt;h3 align="center"&gt;Eagle IoT&lt;/h3&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117" /&gt;
-  &lt;img src="https://img.shields.io/badge/TimescaleDB-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117" /&gt;
-  &lt;img src="https://img.shields.io/badge/MQTT-231F20?style=flat-square&logo=eclipsemosquitto&logoColor=white&labelColor=0d1117" /&gt;
-&lt;/p&gt;
+<img src="https://img.shields.io/github/stars/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS?style=flat-square&label=stars" alt="stars"> <img src="https://img.shields.io/github/last-commit/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS?style=flat-square&label=last%20commit" alt="last commit"> <img src="https://img.shields.io/github/license/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS?style=flat-square" alt="license">
 
-Industrial IoT platform: ESP32 edge gateways → MQTT/mTLS → TimescaleDB hypertables → React dashboard.  
-**50K+ msg/min** · &lt;200ms p95 latency · 80% compression
+Takes a legacy Java WAR and migrates it two different ways in parallel — a cost-optimized single-node K3s cluster and a Multi-AZ ECS Fargate deployment — with FinOps tagging so the cost trade-off between the two paths is measurable, not assumed.
 
-&lt;p align="center"&gt;
-  &lt;a href="https://github.com/ibrahimelothmani?tab=repositories&q=iot"&gt;Repo&lt;/a&gt; ·
-  &lt;a href="https://ibrahimelothmani.netlify.app/"&gt;Demo&lt;/a&gt;
-&lt;/p&gt;
+- **Repo:** [FlexTier-DevSecOps-Dual-Architecture...](https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS)
+- **Tech:** Java · AWS ECS Fargate · K3s · Ansible · Terraform
+- **Why two paths:** modernization advice usually picks one target; this compares a lean self-managed option against a managed one side by side, on the same application.
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width="50%" valign="top"&gt;
+</details>
 
-&lt;h3 align="center"&gt;AgentWarden&lt;/h3&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0d1117" /&gt;
-  &lt;img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117" /&gt;
-  &lt;img src="https://img.shields.io/badge/OPA-7D9199?style=flat-square&logo=openpolicyagent&logoColor=white&labelColor=0d1117" /&gt;
-&lt;/p&gt;
+<details>
+<summary><b>End-to-End DevSecOps — Three-Tier Kubernetes Project</b></summary>
+<br>
 
-AI agent sandboxing for GitOps. Validating/mutating admission webhook in Go + OPA/Rego policies.  
-**&lt;50ms latency** · 12 destructive ops blocked · signed distroless image
+<img src="https://img.shields.io/github/stars/ibrahimelothmani/End-to-End-DevSecOps-Three-Tier-Project-?style=flat-square&label=stars" alt="stars"> <img src="https://img.shields.io/github/last-commit/ibrahimelothmani/End-to-End-DevSecOps-Three-Tier-Project-?style=flat-square&label=last%20commit" alt="last commit">
 
-&lt;p align="center"&gt;
-  &lt;a href="https://github.com/ibrahimelothmani?tab=repositories&q=warden"&gt;Repo&lt;/a&gt; ·
-  &lt;a href="https://github.com/ibrahimelothmani?tab=repositories&q=warden"&gt;Docs&lt;/a&gt;
-&lt;/p&gt;
+A reference pipeline for a three-tier application on EKS, wired from commit to production rollout with shift-left scanning ahead of the deploy gate.
 
-&lt;/td&gt;
-&lt;td width="50%" valign="top"&gt;
+- **Repo:** [End-to-End-DevSecOps-Three-Tier-Project-](https://github.com/ibrahimelothmani/End-to-End-DevSecOps-Three-Tier-Project-)
+- **Tech:** Terraform · AWS EKS · ArgoCD · Prometheus · Grafana · Jenkins
+- **Pattern:** code commit → security scan → image build → ArgoCD sync → monitored rollout
 
-&lt;h3 align="center"&gt;FlexTier&lt;/h3&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117" /&gt;
-  &lt;img src="https://img.shields.io/badge/AWS%20EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1117" /&gt;
-  &lt;img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white&labelColor=0d1117" /&gt;
-&lt;/p&gt;
+</details>
 
-Dual-path Java orchestration: legacy WAR → K3s (edge) + EKS (cloud) with FinOps tagging.  
-**35% cost reduction** · 2-day → 30-min provisioning · zero-downtime cutover
+<details>
+<summary><b>ticket-forge-devops</b> — event-driven ticketing platform under load</summary>
+<br>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS"&gt;Repo&lt;/a&gt; ·
-  &lt;a href="https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS"&gt;Docs&lt;/a&gt;
-&lt;/p&gt;
+<img src="https://img.shields.io/github/stars/ibrahimelothmani/ticket-forge-devops?style=flat-square&label=stars" alt="stars"> <img src="https://img.shields.io/github/last-commit/ibrahimelothmani/ticket-forge-devops?style=flat-square&label=last%20commit" alt="last commit">
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+A sandbox built to work through the hard problems of a real high-traffic ticketing platform — concert or match-day flash sales — where scalability and concurrency correctness matter more than feature count.
 
-&lt;br&gt;
+- **Repo:** [ticket-forge-devops](https://github.com/ibrahimelothmani/ticket-forge-devops)
+- **Focus:** event-driven microservices, concurrency control, resilient cloud infrastructure under spiky demand
+- **Companion:** documented in long-form as part of the **TicketForge** writing series
 
-&lt;!-- ========================================================= --&gt;
-&lt;!--  GITHUB DASHBOARD                                         --&gt;
-&lt;!-- ========================================================= --&gt;
+</details>
 
-&lt;div align="center"&gt;
+<details>
+<summary><b>Blog-Platform-CloudOps</b> — full-stack app with the DevOps built in from day one</summary>
+<br>
 
-## GitHub Dashboard
+<img src="https://img.shields.io/github/stars/ibrahimelothmani/Blog-Platform-CloudOps?style=flat-square&label=stars" alt="stars"> <img src="https://img.shields.io/github/last-commit/ibrahimelothmani/Blog-Platform-CloudOps?style=flat-square&label=last%20commit" alt="last commit">
 
-&lt;img src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%" /&gt;
-&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="49%" /&gt;
+A Spring Boot + React blog platform where the point isn't the blog — it's that Docker, Jenkins, Kubernetes, Terraform, Ansible, Prometheus, and Grafana are wired in from the first commit instead of retrofitted later.
 
-&lt;br&gt;&lt;br&gt;
+- **Repo:** [Blog-Platform-CloudOps](https://github.com/ibrahimelothmani/Blog-Platform-CloudOps)
+- **Tech:** Spring Boot · React · Docker · Jenkins · Kubernetes · Terraform · Ansible · Prometheus · Grafana
 
-&lt;img src="https://streak-stats.demolab.com?user=ibrahimelothmani&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="98%" /&gt;
+</details>
 
-&lt;/div&gt;
+<details>
+<summary><b>GitOps-on-k8s-using-ArgoCD</b></summary>
+<br>
 
-&lt;br&gt;
+<img src="https://img.shields.io/github/stars/ibrahimelothmani/GitOps-on-k8s-using-ArgoCD?style=flat-square&label=stars" alt="stars"> <img src="https://img.shields.io/github/license/ibrahimelothmani/GitOps-on-k8s-using-ArgoCD?style=flat-square" alt="license">
 
-&lt;!-- ========================================================= --&gt;
-&lt;!--  CERTIFICATIONS                                           --&gt;
-&lt;!-- ========================================================= --&gt;
+> "If you're still running `kubectl apply` from your local terminal, you aren't managing a cluster — you're babysitting one."
 
-&lt;div align="center"&gt;
+A working ArgoCD/GitOps setup built around that premise: git as the single source of truth for cluster state, not a human's terminal history.
 
-## Certifications
+- **Repo:** [GitOps-on-k8s-using-ArgoCD](https://github.com/ibrahimelothmani/GitOps-on-k8s-using-ArgoCD)
+- **Tech:** Kubernetes · ArgoCD · Docker · Apache-2.0
 
-&lt;/div&gt;
+</details>
 
-&lt;div align="center"&gt;
+<div align="center"><sub>More on the <a href="https://github.com/ibrahimelothmani?tab=repositories">full repositories tab</a>, including AI-agent and monitoring experiments (RAG agent platform with Langchain4J, a Prometheus/Grafana/Alertmanager reference setup, and smaller learning projects).</sub></div>
 
-| Completed | In Progress | Planned |
-|-----------|-------------|---------|
-| LFS158 — Kubernetes Fundamentals | AWS Solutions Architect (60%) | CKA |
-| LFS169 — GitOps Fundamentals | Terraform Associate | AWS DevOps Pro |
-| LFEL1014 — KEDA Fundamentals | Python for Data Science (40%) | AWS ML Specialty |
+## Tech Stack
 
-&lt;/div&gt;
+Grouped by where it sits in a system, not alphabetically — badges are shorthand, not the pitch.
 
-&lt;br&gt;
+**Cloud & Infrastructure** — where things run and how they're provisioned
+<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-&lt;!-- ========================================================= --&gt;
-&lt;!--  CONTACT                                                  --&gt;
-&lt;!-- ========================================================= --&gt;
+**Containers & Orchestration** — how services are packaged and scheduled
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-&lt;div align="center"&gt;
+**CI/CD & GitOps** — how code becomes a running system
+<br>
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-## Let's Build Together
+**Security & Identity** — how access is controlled, not just checked
+<br>
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
 
-Open to **remote DevOps / Cloud / AI-ML Infrastructure Engineer roles** across Europe and MENA.  
-Select **Production-Readiness Audits** for teams shipping to AWS.
+**Observability** — how a running system explains itself
+<br>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Elastic](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 
-&lt;br&gt;
+**AI / ML & LLM Infrastructure** — the newest layer, treated with the same rigor as the rest
+<br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-&lt;a href="mailto:ibrahimelothmanii@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-ibrahimelothmanii%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
-&lt;a href="https://www.linkedin.com/in/ibrahimelothmani/"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-ibrahimelothmani-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
-&lt;a href="https://ibrahimelothmani.netlify.app/"&gt;&lt;img src="https://img.shields.io/badge/Portfolio-ibrahimelothmani.netlify.app-2ea3ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
-&lt;a href="https://ibrahimelothmani-blog.netlify.app/"&gt;&lt;img src="https://img.shields.io/badge/Blog-Read%20My%20Notes-ff6f00?style=flat-square&logo=hashnode&logoColor=white&labelColor=0d1117" /&gt;&lt;/a&gt;
+**Languages**
+<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-&lt;br&gt;&lt;br&gt;
+**Backend & Frontend**
+<br>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-&gt; *"The most reliable systems are not those that never fail, but those that fail gracefully, recover automatically, and teach you something every time they do."*
+**Databases & Messaging**
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=postgresql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 
-&lt;br&gt;
+## Production Experience
 
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111827,100:0a0a0a&height=100&section=footer" width="100%" /&gt;
+What I actually build and operate, not what I've read about:
 
-&lt;/div&gt;
+- **Multi-tenant SaaS backends** with database-enforced tenant isolation (PostgreSQL RLS, `SECURITY DEFINER` triggers, least-privilege roles)
+- **Kubernetes platforms**, including a custom admission controller that governs what AI agents are allowed to do to a cluster
+- **CI/CD pipelines** across Jenkins, GitHub Actions, and GitLab CI, feeding GitOps rollouts through ArgoCD
+- **Multi-cloud infrastructure as code** on AWS and Azure with Terraform and Ansible
+- **Identity platforms** — Keycloak-backed OIDC/JWT auth in front of production APIs
+- **Observability stacks** — Prometheus, Grafana, and Alertmanager wired into services from the start, not bolted on before an audit
+- **Industrial IoT data pipelines** — PLC/ESP32 sensor data through MQTT and Kafka into TimescaleDB, at multi-tenant, multi-factory scale
+
+## Open Source
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelothmani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="48%">
+
+</div>
+
+Selected repositories — starred, license, and last-commit badges above are live and reflect the current repo state rather than a snapshot:
+
+- [AgentWarden](https://github.com/ibrahimelothmani/AgentWarden) — AI agent sandboxing admission controller
+- [FlexTier-DevSecOps-Dual-Architecture...](https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS) — dual-path Java modernization
+- [Blog-Platform-CloudOps](https://github.com/ibrahimelothmani/Blog-Platform-CloudOps) — full-stack app with DevOps built in
+- [ticket-forge-devops](https://github.com/ibrahimelothmani/ticket-forge-devops) — high-concurrency ticketing sandbox
+- [GitOps-on-k8s-using-ArgoCD](https://github.com/ibrahimelothmani/GitOps-on-k8s-using-ArgoCD) — GitOps reference setup
+- [Multi-Modal-AI-Agent-Platform-with-RAG-Integration](https://github.com/ibrahimelothmani/Multi-Modal-AI-Agent-Platform-with-RAG-Integration) — Langchain4J + RAG experiment
+
+I also keep a running set of smaller, single-concept repos (Prometheus/Grafana monitoring reference, S3 security scanning with a serverless Lambda, network-traffic dashboards) — useful as isolated reference implementations rather than as flagship work.
+
+**Community:** open to issues and PRs on AgentWarden in particular — admission-webhook policy design benefits from more than one perspective.
+
+## Learning & Certifications
+
+<details open>
+<summary><b>Completed</b></summary>
+<br>
+
+| Credential | Issuer |
+|---|---|
+| LFS158 — Kubernetes Fundamentals | The Linux Foundation |
+| LFS169 — GitOps | The Linux Foundation |
+| LFEL1014 — KEDA (Kubernetes Event-Driven Autoscaling) | The Linux Foundation |
+| Full-Stack & DevOps Intensive Program | 2i Formation |
+| Applied Bachelor's Degree (Honors), Civil Engineering | ISET Nabeul |
+
+</details>
+
+<details>
+<summary><b>Next</b></summary>
+<br>
+
+No certification chase for its own sake — the next one will follow whichever gap the AI/ML infrastructure roadmap below actually exposes, rather than being picked in advance.
+
+</details>
+
+## Engineering Research
+
+A self-directed transition into AI/ML infrastructure, run the way I'd run any other project — phased, documented, with a working artifact at the end of each phase.
+
+**Reading list currently in rotation:**
+
+- *AI Engineering* — Chip Huyen (O'Reilly)
+- *Designing Machine Learning Systems* — Chip Huyen (O'Reilly)
+- *LLM Engineer's Handbook* — Paul Iusztin & Maxime Labonne (Packt)
+- *Building Agentic AI Systems* — Anjanava Biswas & Nirmal Talukdar (Packt)
+- *Practical MLOps* — Noah Gift & Alfredo Deza (O'Reilly)
+
+**Research interests:** AI infrastructure and agent sandboxing, distributed systems, platform engineering — specifically where these three overlap.
+
+**Current experiment:** `LLMOps-SafeHaven` — early-stage work applying the AgentWarden access-control mindset to broader LLM operational safety.
+
+## Writing
+
+Long-form technical writing lives on [the blog](https://ibrahimelothmani-blog.netlify.app/), organized into five tracks: **DevOps · DevSecOps · Cloud · MLOps · AIOps**.
+
+**Book-length projects, written alongside the hands-on work:**
+
+- **Engineering AI, Volume I** — mapping a Spring Boot / cloud-native stack onto LLM integration, AI agents, RAG pipelines, and production AI security
+- **Load Paths to Data Pipelines** — Phase 1 of the AI/ML roadmap: NumPy, pandas, and scikit-learn, taught through a structural-engineering lens, ending in a real anomaly-detection model on Eagle IoT sensor data
+- **Attention Is a Load Path** — Phase 2: embeddings, pgvector, RAG, and LangGraph agents, capped by an agentic maintenance assistant sandboxed with AgentWarden
+- **TicketForge** — a build-in-public series following `ticket-forge-devops` through scalability and concurrency problems
+- **DevSecOps & Cloud By Hand** — a full lifecycle walkthrough: app → CI/CD → AWS lift-and-shift → FinOps → AI agent integration
+
+**Latest posts** *(auto-updated from the blog feed — see setup note in the repo)*
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Stats" width="48%">
+<img src="https://streak-stats.demolab.com?user=ibrahimelothmani&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelothmani&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%">
+
+<br><br>
+
+<!-- SNAKE-CONTRIBUTION-GRAPH:START -->
+<img src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="97%">
+<!-- SNAKE-CONTRIBUTION-GRAPH:END -->
+
+</div>
+
+<sub>Snake animation needs the one-time workflow in <code>snake.yml</code> enabled on this repo — see the accompanying setup note.</sub>
+
+## Roadmap
+
+| Status | Item |
+|---|---|
+| ✅ Done | Kubernetes fundamentals, GitOps workflow (ArgoCD) |
+| ✅ Done | Production multi-tenant SaaS (Future Eagle Fleet) |
+| ✅ Done | Industrial IoT ingestion pipeline (Eagle IoT) |
+| ✅ Done | Agent sandboxing v1 (AgentWarden) |
+| ✅ Done | ML foundations — NumPy, pandas, scikit-learn (Roadmap Phase 1) |
+| ✅ Done | LLMs, embeddings, RAG, LangGraph agents (Roadmap Phase 2) |
+| 🔄 In progress | MLOps tooling — serving, MLflow, drift monitoring, CI/CD for ML (Roadmap Phase 3) |
+| ▹ Next | Expanded AgentWarden policy engine; service mesh (Istio) evaluation |
+| ▹ Future | Portfolio/proof phase of the AI/ML roadmap (Phase 4); deeper distributed-systems and cloud-architecture work |
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:ibrahimelothmanii@gmail.com"><img src="https://img.shields.io/badge/Email-ibrahimelothmanii%40gmail.com-2b3137?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/ibrahimelothmani/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2b3137?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+<a href="https://ibrahimelothmani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2b3137?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://ibrahimelothmani-blog.netlify.app/"><img src="https://img.shields.io/badge/Blog-Read-2b3137?style=flat-square&logo=hashnode&logoColor=2962FF" alt="Blog"></a>
+
+<br><br>
+
+<sub>Open to remote <b>DevOps / Cloud / AI-ML Infrastructure Engineer</b> roles across Europe and MENA, and to short production-readiness audits (Spring Boot · PostgreSQL · DevSecOps) for teams shipping to AWS. Resume available on request.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+*A structure doesn't fail because of the math. It fails because of the assumption nobody checked. I hold distributed systems — and the agents now running on top of them — to the same standard.*
+
+</div>
