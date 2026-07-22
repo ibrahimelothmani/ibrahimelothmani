@@ -31,6 +31,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Runs first, as the normal runner user — creates dist/ owned by that user.
+      - name: generate streak stats card
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        with:
+          USERNAME: ibrahimelothmani
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: tokyonight
+          OUTPUT_PATH: dist/github-streak-stats.svg
+
+      # Runs second — this action executes inside a Docker container as root. If it ran
+      # first, root would create dist/ and the step above would fail with EACCES trying
+      # to write into it. Root writing into an already-existing, non-root-owned dist/ is fine.
       - name: generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -39,13 +51,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: generate streak stats card
-        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
-        with:
-          USERNAME: ibrahimelothmani
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          THEME: tokyonight
-          OUTPUT_PATH: dist/github-streak-stats.svg
+      # Safety net in case any step above left root-owned files behind.
+      - name: normalize permissions
+        run: sudo chown -R $(id -u):$(id -g) dist
 
       - name: push widgets to output branch
         uses: crazy-max/ghaction-github-pages@v4
