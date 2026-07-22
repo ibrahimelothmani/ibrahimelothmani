@@ -1,0 +1,56 @@
+# Place this file at: .github/workflows/profile-widgets.yml
+# (in the ibrahimelothmani/ibrahimelothmani repo — replaces the earlier snake.yml)
+#
+# Why this exists: the public github-readme-streak-stats and snake-animation demos
+# are shared, rate-limited services and go down often. This workflow generates both
+# using YOUR OWN GitHub Actions run (no shared quota), then pushes the resulting SVGs
+# to an "output" branch — which is what the <img> tags in README.md point to.
+#
+# One-time setup:
+#   1. Commit this file.
+#   2. Go to the "Actions" tab on this repo -> "generate profile widgets" -> "Run workflow"
+#      (or just wait for the daily 00:00 UTC schedule to fire it automatically).
+#   3. After the first successful run, an "output" branch is created/updated with the SVGs.
+#      Nothing else to do after that — it refreshes daily on its own.
+
+name: generate profile widgets
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch: {}    # manual "Run workflow" button
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ibrahimelothmani
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: generate streak stats card
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        with:
+          USERNAME: ibrahimelothmani
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: tokyonight
+          OUTPUT_PATH: dist/github-streak-stats.svg
+
+      - name: push widgets to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
