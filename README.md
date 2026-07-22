@@ -29,7 +29,7 @@ Today I build **multi-tenant SaaS platforms and the Kubernetes/Terraform infrast
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,githubactions,jenkins,argocd,prometheus,grafana&theme=dark" alt="infra icons"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,githubactions,jenkins,prometheus,grafana&theme=dark" alt="infra icons"/>
 
 <br>
 
@@ -66,8 +66,8 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="stats"/>
-<img src="https://streak-stats.demolab.com?user=ibrahimelothmani&theme=tokyonight&hide_border=true" width="48%" alt="streak"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="stats"/>
+<img src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/github-streak-stats.svg" width="48%" alt="streak"/>
 
 <br><br>
 
@@ -75,7 +75,7 @@ flowchart LR
 <img src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/github-contribution-grid-snake.svg" width="97%" alt="contribution snake"/>
 <!-- SNAKE-CONTRIBUTION-GRAPH:END -->
 
-<sub>Snake animation activates once <code>snake.yml</code> is enabled on this repo (included below).</sub>
+<sub>Streak card and snake animation activate once <code>profile-widgets.yml</code> is enabled on this repo (included below).</sub>
 
 </div>
 
