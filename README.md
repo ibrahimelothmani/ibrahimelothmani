@@ -54,6 +54,7 @@ flowchart LR
 
 | Project | Stack | What it does |
 |---|---|---|
+| [**StackMedic**](https://github.com/ibrahimelothmani/StackMedic) ![stars](https://img.shields.io/github/stars/ibrahimelothmani/StackMedic?style=flat-square&label=) | Go · CLI · Kubernetes · Docker | Local-first DevOps diagnostics toolkit that turns infrastructure failures into evidence-backed findings and safe, verifiable fixes. |
 | [**AgentWarden**](https://github.com/ibrahimelothmani/AgentWarden) ![stars](https://img.shields.io/github/stars/ibrahimelothmani/AgentWarden?style=flat-square&label=) | Go · K8s admission webhooks | Sandboxes AI coding agents inside Kubernetes — a policy layer between "agent suggests" and "agent executes." |
 | [**FlexTier**](https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS) ![stars](https://img.shields.io/github/stars/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS?style=flat-square&label=) | Java · K3s · ECS Fargate | Migrates a legacy Java WAR two ways in parallel, with FinOps tagging to compare real cost trade-offs. |
 | [**Blog-Platform-CloudOps**](https://github.com/ibrahimelothmani/Blog-Platform-CloudOps) ![stars](https://img.shields.io/github/stars/ibrahimelothmani/Blog-Platform-CloudOps?style=flat-square&label=) | Spring Boot · React · Terraform | Full-stack app with Docker, Jenkins, K8s, Prometheus & Grafana wired in from the first commit. |
@@ -74,8 +75,6 @@ flowchart LR
 <!-- SNAKE-CONTRIBUTION-GRAPH:START -->
 <img src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/github-contribution-grid-snake.svg" width="97%" alt="contribution snake"/>
 <!-- SNAKE-CONTRIBUTION-GRAPH:END -->
-
-<sub>Streak card and snake animation activate once <code>profile-widgets.yml</code> is enabled on this repo (included below).</sub>
 
 </div>
 
