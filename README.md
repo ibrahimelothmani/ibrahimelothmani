@@ -1,95 +1,86 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F1220,100:1E3A5F&height=180&section=header&text=Ibrahim%20El%20Othmani&fontSize=38&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Cloud%20%C2%B7%20DevSecOps%20%C2%B7%20AI%20Infrastructure&descAlignY=58&descSize=15&descColor=9FB3C8">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5FA8,100:6FA8DC&height=180&section=header&text=Ibrahim%20El%20Othmani&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%C2%B7%20DevSecOps%20%C2%B7%20AI%20Infrastructure&descAlignY=58&descSize=15&descColor=F0F4F8" width="100%" alt="Ibrahim El Othmani">
-</picture>
+# Ibrahim El Othmani
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=4C8DFF&center=true&vCenter=true&width=560&height=35&lines=Ex-Structural+Engineer%2C+Now+Building+Distributed+Systems;Kubernetes+%7C+Terraform+%7C+GitOps+%7C+DevSecOps;Currently%3A+AI%2FML+Infrastructure+%28in+progress%29)](https://github.com/ibrahimelothmani)
+**Cloud & DevOps Engineer** · Kubernetes · Terraform · AWS · DevSecOps
 
-📍 Nabeul, Tunisia &nbsp;·&nbsp; 🌍 Open to remote — EU & MENA
+I build secure, observable cloud platforms, and I'm now extending them to AI/ML workloads.
 
-<a href="mailto:ibrahimelothmanii@gmail.com"><img src="https://img.shields.io/badge/-Email-2b3137?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/ibrahimelothmani/"><img src="https://img.shields.io/badge/-LinkedIn-2b3137?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
-<a href="https://ibrahimelothmani.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-2b3137?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://ibrahimelothmani-blog.netlify.app/"><img src="https://img.shields.io/badge/-Blog-2b3137?style=for-the-badge&logo=hashnode&logoColor=2962FF" alt="Blog"></a>
+📍 Nabeul, Tunisia &nbsp;·&nbsp; 🌍 Open to remote roles (EU & MENA)
 
-<img src="https://img.shields.io/github/followers/ibrahimelothmani?label=Followers&style=flat-square&color=4C8DFF&labelColor=2b3137" alt="Followers">
-<img src="https://komarev.com/ghpvc/?username=ibrahimelothmani&color=4C8DFF&style=flat-square&label=Profile+Views" alt="Views">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimelothmani/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2b3137?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibrahimelothmani.netlify.app/)
+[![Blog](https://img.shields.io/badge/Blog-2b3137?style=for-the-badge&logo=rss&logoColor=white)](https://ibrahimelothmani-blog.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-2b3137?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimelothmanii@gmail.com)
 
 </div>
 
 ## About
 
-Started in **structural engineering** — load paths, safety factors, failure margins. Pivoted into software in 2023 and never lost the instinct: systems fail from unexamined assumptions, not bad code.
+I'm a Cloud & DevOps engineer and the founder of **Future Eagle IoT**, where I run the Kubernetes platforms, CI/CD and monitoring behind our multi-tenant SaaS and industrial IoT products.
 
-Today I build **multi-tenant SaaS platforms and the Kubernetes/Terraform infrastructure underneath them**, and I'm the founder of **Future Eagle IoT**. Currently deep in an AI/ML infrastructure transition — treating agents and RAG pipelines with the same rigor as any other production service.
+- **Background:** I trained as a civil engineer, then moved into software in 2023. The habit carried over: systems fail at the assumption nobody checked.
+- **What I do:** infrastructure as code with Terraform and Ansible, Kubernetes with Helm and ArgoCD, CI/CD with security scanning in every pipeline, and monitoring with Prometheus, Grafana and ELK.
+- **Current focus:** AI/ML infrastructure. I run agents, RAG pipelines and model serving with the same rigor as any other production service.
+- **Writing:** long-form notes on DevOps, DevSecOps, Cloud and MLOps on [my blog](https://ibrahimelothmani-blog.netlify.app/), including the *Engineering AI* and *TicketForge* series.
 
-## Tech Stack
+## Experience
 
-<div align="center">
+**Cloud & DevOps Engineer · Future Eagle IoT** — *Dec 2025 – present · Nabeul, Tunisia (hybrid)*
 
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,githubactions,jenkins,prometheus,grafana&theme=dark" alt="infra icons"/>
+- Cut CI/CD cycle time by ~40% with GitHub Actions pipelines and tighter promotion gates.
+- Reduced Terraform/Ansible provisioning from ~2 days to ~30 minutes for repeatable multi-cloud infrastructure.
+- Run Kubernetes platforms at 99.9% uptime with Helm releases and ArgoCD GitOps.
+- Reduced mean time to detect (MTTD) by ~65% with Prometheus, Grafana and ELK.
+- Added SonarQube quality gates and Trivy image scans to every pipeline.
+- Products (private repos): **Future Eagle Fleet**, a multi-tenant fleet SaaS (Spring Boot, PostgreSQL RLS, Keycloak), and **Eagle IoT**, an industrial data pipeline (PLC → ESP32 → Kafka → TimescaleDB).
 
-<br>
+**Full Stack Engineer · Freelance** — *Jun 2024 – Nov 2025 · Remote*
 
-<img src="https://skillicons.dev/icons?i=go,java,python,typescript,javascript,bash,spring,fastapi,react,angular&theme=dark" alt="language icons"/>
+- Delivered 6+ client products, each in under 8 weeks: APIs, SPAs and deployment packages.
+- Implemented Keycloak OAuth2/JWT authentication, cutting login latency by ~40%.
+- Cut hosting costs by ~35% by right-sizing Docker/Kubernetes footprints and CI usage.
+- Used PostgreSQL row-level security to isolate tenant data on shared databases.
 
-<br>
+## Featured projects
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,mongodb&theme=dark" alt="data icons"/> &nbsp; <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" alt="langchain"> <img src="https://img.shields.io/badge/-pgvector-4169E1?style=flat-square" alt="pgvector"> <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="claude">
-
-</div>
-
-## Engineering Journey
-
-```mermaid
-flowchart LR
-    A[Civil Engineering] --> B[Software] --> C[DevOps] --> D[Cloud & Platform Engineering] --> E[AI Infrastructure]
-    style A fill:#2b3137,stroke:#4C8DFF,color:#fff
-    style E fill:#2b3137,stroke:#4C8DFF,color:#fff
-```
-
-## Featured Projects
-
-| Project | Stack | What it does |
+| Project | What it does | Stack |
 |---|---|---|
-| [**StackMedic**](https://github.com/ibrahimelothmani/StackMedic) ![stars](https://img.shields.io/github/stars/ibrahimelothmani/StackMedic?style=flat-square&label=) | Go · CLI · Kubernetes · Docker | Local-first DevOps diagnostics toolkit that turns infrastructure failures into evidence-backed findings and safe, verifiable fixes. |
-| [**AgentWarden**](https://github.com/ibrahimelothmani/AgentWarden) ![stars](https://img.shields.io/github/stars/ibrahimelothmani/AgentWarden?style=flat-square&label=) | Go · K8s admission webhooks | Sandboxes AI coding agents inside Kubernetes — a policy layer between "agent suggests" and "agent executes." |
-| [**FlexTier**](https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS) ![stars](https://img.shields.io/github/stars/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS?style=flat-square&label=) | Java · K3s · ECS Fargate | Migrates a legacy Java WAR two ways in parallel, with FinOps tagging to compare real cost trade-offs. |
-| [**Blog-Platform-CloudOps**](https://github.com/ibrahimelothmani/Blog-Platform-CloudOps) ![stars](https://img.shields.io/github/stars/ibrahimelothmani/Blog-Platform-CloudOps?style=flat-square&label=) | Spring Boot · React · Terraform | Full-stack app with Docker, Jenkins, K8s, Prometheus & Grafana wired in from the first commit. |
-| [**ticket-forge-devops**](https://github.com/ibrahimelothmani/ticket-forge-devops) ![stars](https://img.shields.io/github/stars/ibrahimelothmani/ticket-forge-devops?style=flat-square&label=) | Event-driven microservices | High-concurrency ticketing sandbox modeling flash-sale traffic patterns. |
-| [**GitOps-on-k8s-using-ArgoCD**](https://github.com/ibrahimelothmani/GitOps-on-k8s-using-ArgoCD) ![stars](https://img.shields.io/github/stars/ibrahimelothmani/GitOps-on-k8s-using-ArgoCD?style=flat-square&label=) | Kubernetes · ArgoCD | Git as the single source of truth for cluster state — no `kubectl apply` from a laptop. |
+| [**StackMedic**](https://github.com/ibrahimelothmani/StackMedic) | Local-first DevOps diagnostics toolkit that turns infrastructure failures into evidence-backed findings and safe, verifiable fixes. | Go · Docker · Kubernetes |
+| [**AgentWarden**](https://github.com/ibrahimelothmani/AgentWarden) | Guardrail between autonomous AI coding agents and production repos: static analysis, sandboxed execution and policy checks reject unsafe changes before they land. | Go · Docker |
+| [**FlexTier**](https://github.com/ibrahimelothmani/FlexTier-DevSecOps-Dual-Architecture-Java-Application-Orchestration-FinOps-on-AWS) | Moves a legacy Java WAR onto two targets, a low-cost K3s node and a Multi-AZ ECS Fargate stack, with FinOps tagging to compare real costs. | Java · AWS ECS Fargate · K3s · Ansible |
+| [**TicketForge**](https://github.com/ibrahimelothmani/ticket-forge-devops) | Event-driven microservices platform that simulates flash-sale ticketing traffic to test scale, concurrency and resilience. | Python · FastAPI · Kafka · Terraform · EKS · ArgoCD |
+| [**Cloud-Native MERN**](https://github.com/ibrahimelothmani/Cloud-Native-MERN-DevOps-Deployment) | MERN e-commerce app on Kubernetes with Helm, Jenkins CI/CD, and Prometheus/Grafana monitoring and alerting. | MERN · Kubernetes · Helm · Jenkins |
+| [**Blog Platform CloudOps**](https://github.com/ibrahimelothmani/Blog-Platform-CloudOps) | Spring Boot + React app with Docker, Jenkins, Kubernetes, Terraform, Ansible, Prometheus and Grafana wired in from the first commit. | Spring Boot · React · Terraform · EKS |
 
-**Private / proprietary:** **Future Eagle Fleet** (multi-tenant fleet SaaS — Spring Boot, PostgreSQL RLS, Keycloak) and **Eagle IoT** (industrial pipeline — PLC → ESP32 → Kafka → TimescaleDB).
+**More:** [GitOps with ArgoCD](https://github.com/ibrahimelothmani/GitOps-on-k8s-using-ArgoCD) · [MLOps on Kubernetes](https://github.com/ibrahimelothmani/MLOps-Project-From-Model-Training-to-Kubernetes-Deployment) · [AI security scanner for S3](https://github.com/ibrahimelothmani/AI-Security-Scanner-for-AWS-S3) · [ProMonitor](https://github.com/ibrahimelothmani/ProMonitor) · [DBPulse](https://github.com/ibrahimelothmani/DBPulse---Database-Monitoring-Visualization-Platform) · [Jenkins SSO with Keycloak](https://github.com/ibrahimelothmani/Jenkins-Single-Sign-On-SSO-with-Keycloak-using-OpenID-Connect) · [LinuxQuest](https://github.com/ibrahimelothmani/-LinuxQuest)
 
-## GitHub Activity
+## Tech stack
 
-<div align="center">
+| Area | Tools |
+|---|---|
+| Cloud | AWS (EKS, ECS Fargate, EC2, Lambda, S3), Azure |
+| Infrastructure as code | Terraform, Ansible, Helm |
+| Containers & orchestration | Docker, Kubernetes, K3s |
+| CI/CD & GitOps | GitHub Actions, Jenkins, ArgoCD |
+| Observability | Prometheus, Grafana, Alertmanager, ELK |
+| Security | SonarQube, Trivy, Keycloak (OAuth2 / OIDC), PostgreSQL RLS |
+| Languages | Go, Java, Python, TypeScript, JavaScript, Bash |
+| Frameworks | Spring Boot, FastAPI, React, Angular |
+| Data & messaging | PostgreSQL, Redis, Kafka, MongoDB, TimescaleDB |
+| AI / ML | LangChain, RAG, pgvector, scikit-learn, LLM APIs (Claude, Gemini) |
 
-<img src="https://github-stats-extended.vercel.app/api?username=ibrahimelothmani&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="stats"/>
-<img src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/github-streak-stats.svg" width="48%" alt="streak"/>
+## Certificates & education
 
-<br><br>
-
-<!-- SNAKE-CONTRIBUTION-GRAPH:START -->
-<img src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/output/github-contribution-grid-snake.svg" width="97%" alt="contribution snake"/>
-<!-- SNAKE-CONTRIBUTION-GRAPH:END -->
-
-</div>
-
-## Writing
-
-Long-form notes on DevOps, DevSecOps, Cloud, MLOps & AIOps at [the blog](https://ibrahimelothmani-blog.netlify.app/) — including the **Engineering AI** and **TicketForge** book series, written alongside the projects above.
+- **The Linux Foundation** (verified on Credly): [Introduction to Kubernetes (LFS158)](https://www.credly.com/badges/fd589dec-76d7-4867-8380-21de5ab5005a/public_url) · [Introduction to GitOps (LFS169)](https://www.credly.com/badges/04dd8eab-7cc1-491b-ae77-d34974de6002/public_url) · [Introduction to Linux (LFS101)](https://www.credly.com/badges/780fd237-a048-4cd7-84d3-e8d559e4e4ba/public_url)
+- **Next:** AWS Certified Solutions Architect – Associate · Certified Kubernetes Administrator (CKA) · HashiCorp Terraform Associate
+- **2i Formation:** Specialized Engineering Program, Full-Stack & DevOps Engineering (2023–2024)
+- **ISET Nabeul:** Applied Bachelor's Degree in Civil Engineering, with honors (2017–2020)
 
 ---
 
 <div align="center">
 
-*A structure doesn't fail because of the math — it fails because of the assumption nobody checked. Same standard applies to distributed systems, and now to the agents running on top of them.*
-
-&nbsp;
-
-<a href="mailto:ibrahimelothmanii@gmail.com"><img src="https://img.shields.io/badge/-Let's%20talk-4C8DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"></a>
+**Open to remote Cloud & DevOps roles in the EU and MENA.** The fastest way to reach me is [email](mailto:ibrahimelothmanii@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ibrahimelothmani/).
 
 </div>
