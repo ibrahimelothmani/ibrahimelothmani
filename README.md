@@ -1,8 +1,6 @@
 <div align="center">
 
-# Ibrahim El Othmani
-
-**Cloud & DevOps Engineer** · Kubernetes · Terraform · AWS · DevSecOps
+<img src="https://raw.githubusercontent.com/ibrahimelothmani/ibrahimelothmani/master/assets/hero.svg" width="100%" alt="Ibrahim El Othmani, Cloud and DevOps Engineer">
 
 I build secure, observable cloud platforms, and I'm now extending them to AI/ML workloads.
 
@@ -15,7 +13,7 @@ I build secure, observable cloud platforms, and I'm now extending them to AI/ML 
 
 </div>
 
-## About
+## 👋 About me
 
 I'm a Cloud & DevOps engineer and the founder of **Future Eagle IoT**, where I run the Kubernetes platforms, CI/CD and monitoring behind our multi-tenant SaaS and industrial IoT products.
 
@@ -24,7 +22,7 @@ I'm a Cloud & DevOps engineer and the founder of **Future Eagle IoT**, where I r
 - **Current focus:** AI/ML infrastructure. I run agents, RAG pipelines and model serving with the same rigor as any other production service.
 - **Writing:** long-form notes on DevOps, DevSecOps, Cloud and MLOps on [my blog](https://ibrahimelothmani-blog.netlify.app/), including the *Engineering AI* and *TicketForge* series.
 
-## Experience
+## 💼 Experience
 
 **Cloud & DevOps Engineer · Future Eagle IoT** — *Dec 2025 – present · Nabeul, Tunisia (hybrid)*
 
@@ -42,7 +40,7 @@ I'm a Cloud & DevOps engineer and the founder of **Future Eagle IoT**, where I r
 - Cut hosting costs by ~35% by right-sizing Docker/Kubernetes footprints and CI usage.
 - Used PostgreSQL row-level security to isolate tenant data on shared databases.
 
-## Featured projects
+## 🚀 Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -55,22 +53,21 @@ I'm a Cloud & DevOps engineer and the founder of **Future Eagle IoT**, where I r
 
 **More:** [GitOps with ArgoCD](https://github.com/ibrahimelothmani/GitOps-on-k8s-using-ArgoCD) · [MLOps on Kubernetes](https://github.com/ibrahimelothmani/MLOps-Project-From-Model-Training-to-Kubernetes-Deployment) · [AI security scanner for S3](https://github.com/ibrahimelothmani/AI-Security-Scanner-for-AWS-S3) · [ProMonitor](https://github.com/ibrahimelothmani/ProMonitor) · [DBPulse](https://github.com/ibrahimelothmani/DBPulse---Database-Monitoring-Visualization-Platform) · [Jenkins SSO with Keycloak](https://github.com/ibrahimelothmani/Jenkins-Single-Sign-On-SSO-with-Keycloak-using-OpenID-Connect) · [LinuxQuest](https://github.com/ibrahimelothmani/-LinuxQuest)
 
-## Tech stack
+## 🛠️ Tech stack
 
-| Area | Tools |
+| Area | Stack |
 |---|---|
-| Cloud | AWS (EKS, ECS Fargate, EC2, Lambda, S3), Azure |
-| Infrastructure as code | Terraform, Ansible, Helm |
-| Containers & orchestration | Docker, Kubernetes, K3s |
-| CI/CD & GitOps | GitHub Actions, Jenkins, ArgoCD |
-| Observability | Prometheus, Grafana, Alertmanager, ELK |
-| Security | SonarQube, Trivy, Keycloak (OAuth2 / OIDC), PostgreSQL RLS |
-| Languages | Go, Java, Python, TypeScript, JavaScript, Bash |
-| Frameworks | Spring Boot, FastAPI, React, Angular |
-| Data & messaging | PostgreSQL, Redis, Kafka, MongoDB, TimescaleDB |
-| AI / ML | LangChain, RAG, pgvector, scikit-learn, LLM APIs (Claude, Gemini) |
+| ☁️ **Cloud** | <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" height="40" alt="AWS, Azure"><br>AWS (EKS, ECS Fargate, EC2, Lambda, S3) · Azure |
+| 🏗️ **Infrastructure as code** | <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" height="40" alt="Terraform, Ansible"><br>Terraform · Ansible · Helm |
+| 🐳 **Containers & orchestration** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" height="40" alt="Docker, Kubernetes, Linux"><br>Docker · Kubernetes · K3s · Linux |
+| 🔁 **CI/CD & DevSecOps** | <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git&theme=dark" height="40" alt="GitHub Actions, Jenkins, Git"><br>GitHub Actions · Jenkins · ArgoCD (GitOps) · SonarQube · Trivy |
+| 📈 **Observability** | <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" height="40" alt="Prometheus, Grafana, Elasticsearch"><br>Prometheus · Grafana · Alertmanager · ELK |
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=go,java,py,ts,js,bash&theme=dark" height="40" alt="Go, Java, Python, TypeScript, JavaScript, Bash"><br>Go · Java · Python · TypeScript · JavaScript · Bash |
+| 🧩 **Frameworks & identity** | <img src="https://skillicons.dev/icons?i=spring,fastapi,react,angular&theme=dark" height="40" alt="Spring Boot, FastAPI, React, Angular"><br>Spring Boot · FastAPI · React · Angular · Keycloak (OAuth2 / OIDC) |
+| 🗄️ **Data & messaging** | <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,mongodb&theme=dark" height="40" alt="PostgreSQL, Redis, Kafka, MongoDB"><br>PostgreSQL (row-level security) · Redis · Kafka · MongoDB · TimescaleDB |
+| 🤖 **AI / ML** | <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="40" alt="scikit-learn"><br>LangChain · RAG · pgvector · scikit-learn · LLM APIs (Claude, Gemini) |
 
-## Certificates & education
+## 🎓 Certificates & education
 
 - **The Linux Foundation** (verified on Credly): [Introduction to Kubernetes (LFS158)](https://www.credly.com/badges/fd589dec-76d7-4867-8380-21de5ab5005a/public_url) · [Introduction to GitOps (LFS169)](https://www.credly.com/badges/04dd8eab-7cc1-491b-ae77-d34974de6002/public_url) · [Introduction to Linux (LFS101)](https://www.credly.com/badges/780fd237-a048-4cd7-84d3-e8d559e4e4ba/public_url)
 - **Next:** AWS Certified Solutions Architect – Associate · Certified Kubernetes Administrator (CKA) · HashiCorp Terraform Associate
